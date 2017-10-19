@@ -96,7 +96,6 @@ Single Codebase, Two Apps with Flutter and Firebase (Google I/O '17)
 
 ### UI
 
-- [Image Carousel](https://github.com/theobouwman/flutter_image_carousel) - A image slider/carousel by [Theo Bouwman](https://github.com/theobouwman)
 - [Image Picker](https://github.com/flutter/plugins/tree/master/packages/image_picker) - Images Selection by [Collin Jackson](http://www.collinjackson.com)
 - [Zoomable Image](https://github.com/perlatus/flutter_zoomable_image) - By Perlatus
 - [SpriteWidget](https://github.com/spritewidget/spritewidget) -  Toolkit for building complex, high performance animations and 2D games by Viktor Lidholt
@@ -212,6 +211,7 @@ Plugins / IOS - Android  additions
 - [Flitch](https://github.com/matanlurey/flitch) - Twitch client for Flutter by [Matan Lurey](https://twitter.com/matanlurey).
 - [WikiFlutter](https://github.com/nanowang/wiki-flutter) - Wikipedia reader by [Nano WANG](https://github.com/nanowang)
 - [DartHub](https://github.com/SamThompson/dart_hub) - GitHub client written in flutter by [Sam Thompson](https://github.com/SamThompson)
+- [CryptoMarket](https://github.com/prathanbomb/crypto_market) - Cryptocurrency market capitalizations by [Supitsara Prathan](https://medium.com/@prathanbomb)
 
 ### Games
 
