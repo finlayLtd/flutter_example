@@ -227,7 +227,7 @@ Single Codebase, Two Apps with Flutter and Firebase (Google I/O '17)
 - [Fluvies](https://github.com/dilpreet96/Fluvies.git) - Movie browsing app using MVP, PathProviders, FutureBuilders and Database by [Dilpreet Singh](https://github.com/dilpreet96)
 - [DroidKaigi2018-flutter](https://github.com/konifar/droidkaigi2018-flutter) - Unofficial conference app for DroidKaigi 2018 Tokyo by [konifar](https://github.com/konifar)
 - [Heroes Companion](https://github.com/arranf/Heroes-Companion) - Companion app for Heroes of Storm including redux and sqflite by [arranf](https://github.com/arranf)
-- [CryptoShadow](https://github.com/huextrat/CryptoShadow) - CryptoCurrency Tracker by [Hugo EXTRAT](https://github.com/huextrat)
+
 
 ## Frameworks
 
@@ -253,6 +253,7 @@ Single Codebase, Two Apps with Flutter and Firebase (Google I/O '17)
 - [Dart Streams](https://www.youtube.com/playlist?list=PLlpxjI4sVd-zZ1jpJHJMSHGiWInsvwwf_) - Flutter dedicated channel on Dart-Streams
 - [Bram Vanbilsen Tutorials](https://www.youtube.com/watch?v=CEPCGXQ7IQg&list=PLxU9Ryxq6p58PsNmJL70J4_7UzfSqf35n) - Discover SDK using VSCode by Bram Vanbilsen
 - [Flutter tutorials from VoidRealms](https://www.youtube.com/playlist?list=PLUbFnGajtZlX9ubiLzYz_cw92esraiIBi)
+- [Mtechviral](https://www.youtube.com/watch?v=qWL1lGchpRA&list=PLR2qQy0Zxs_UdqAcaipPR3CG1Ly57UlhV) - [Hindi/English] Mtechviral Series By [Pawan Kumar](https://github.com/iampawan)
 
 ## Bonus
 
