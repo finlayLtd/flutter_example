@@ -58,6 +58,7 @@ Single Codebase, Two Apps with Flutter and Firebase (Google I/O '17)
 - [Flutter Labs](https://codelabs.developers.google.com/codelabs/flutter/index.html#0) - Building beautiful UIs with Flutter step by step
 - [Zero to One with Flutter](https://medium.com/dartlang/zero-to-one-with-flutter-43b13fd7b354) - Flutter basics by [Mikkel Ravn](https://medium.com/@mravn)
 - [FLUTTER from Install to ListView](https://medium.com/@develodroid/flutter-i-intro-and-install-a8bf6dfcc7c8) - Full serie of 4 articles by [Chema Rubio](https://twitter.com/develodroid)
+- [What’s Revolutionary about Flutter](https://hackernoon.com/whats-revolutionary-about-flutter-946915b09514) - Comparison to other mobile SDKs by [Wm Leler](https://twitter.com/flutter_wm)
 
 ### Tutorial
 
@@ -205,7 +206,6 @@ Single Codebase, Two Apps with Flutter and Firebase (Google I/O '17)
 - [QR Code Reader](https://github.com/villela/flutter_qrcode_reader) - QR Code reader plugin by [Matheus Villela](https://github.com/villela)
 - [Battery](https://pub.dartlang.org/packages/battery) - Access various information about the battery
 - [Zebra EMDK](https://github.com/acaliaro/flutterZebraEmdk) - Use Zebra EMDK to access Barcode Scanner API
-- [Proximity Sensor Plugin](https://pub.dartlang.org/packages/proximity_plugin) - A plugin to access the proximity sensor of your device by [Manoj NB](https://github.com/Samaritan1011001)
 
 ### Bluetooth
 
@@ -229,7 +229,7 @@ Single Codebase, Two Apps with Flutter and Firebase (Google I/O '17)
 - [Fluvies](https://github.com/dilpreet96/Fluvies.git) - Movie browsing app using MVP, PathProviders, FutureBuilders and Database by [Dilpreet Singh](https://github.com/dilpreet96)
 - [DroidKaigi2018-flutter](https://github.com/konifar/droidkaigi2018-flutter) - Unofficial conference app for DroidKaigi 2018 Tokyo by [konifar](https://github.com/konifar)
 - [Heroes Companion](https://github.com/arranf/Heroes-Companion) - Companion app for Heroes of Storm including redux and sqflite by [arranf](https://github.com/arranf)
-- [Trovami](https://github.com/Samaritan1011001/Trovami) - A live location sharing app built on Flutter and Firebase as backend by [Manoj NB](https://github.com/Samaritan1011001)
+
 
 ## Frameworks
 
