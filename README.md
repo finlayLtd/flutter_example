@@ -126,6 +126,7 @@ Single Codebase, Two Apps with Flutter and Firebase (Google I/O '17)
 - [Sparkline](https://github.com/xqwzts/flutter_sparkline) - Sparkline by [Victor Choueiri](https://github.com/xqwzts)
 - [Charts](https://github.com/google/charts) - By Google Charts Team
 - [Flutter Plot](https://github.com/RCHowell/flutter_plot) - Pretty plots by [R. C. Howell](https://github.com/RCHowell/).
+- [Candlesticks](https://github.com/trentpiercy/flutter-candlesticks) - OHLC and Trade Volume Charts by [Trent Piercy](https://github.com/trentpiercy).
 
 
 ### Navigation
@@ -167,6 +168,7 @@ Single Codebase, Two Apps with Flutter and Firebase (Google I/O '17)
 - [Frosted Glass](http://stackoverflow.com/questions/43550853/how-do-i-do-the-frosted-glass-effect-in-flutter) - Render effect by [Collin Jackson](http://www.collinjackson.com)
 - [Font Awesome](https://pub.dartlang.org/packages/font_awesome_flutter) - Font Awesome icons repack by Brian Egan
 - [FlutterIcon](http://fluttericon.com/) - Icon font generator
+- [Pigment](https://github.com/bregydoc/pigment) - A simple but useful package for use colors in flutter.
 
 ### Media
 
@@ -221,6 +223,8 @@ Single Codebase, Two Apps with Flutter and Firebase (Google I/O '17)
 - [Battery](https://pub.dartlang.org/packages/battery) - Access various information about the battery
 - [Zebra EMDK](https://github.com/acaliaro/flutterZebraEmdk) - Use Zebra EMDK to access Barcode Scanner API
 - [Proximity Sensor Plugin](https://pub.dartlang.org/packages/proximity_plugin) - A plugin to access the proximity sensor of your device by [Manoj NB](https://github.com/Samaritan1011001)
+- [Geolocation](https://github.com/loup-v/geolocation) - Fully featured geolocation plugin: current location, location updates, geocode, places and more by [Loup](http://intheloup.io)
+- [Flutter Local Notifications](https://github.com/MaikuB/flutter_local_notifications) - A plugin for displaying local notifications
 
 ### Bluetooth
 
@@ -247,6 +251,7 @@ Single Codebase, Two Apps with Flutter and Firebase (Google I/O '17)
 - [Trovami](https://github.com/Samaritan1011001/Trovami) - A live location sharing app built on Flutter and Firebase as backend by [Manoj NB](https://github.com/Samaritan1011001)
 - [Music Player](https://github.com/iampawan/Flutter-Music-Player) - Full featured music player by [Pawan Kumar](https://about.me/imthepk)
 - [Planty](https://github.com/Ivaskuu/plantly) - Plants shop by [Ivascu Adrian](https://github.com/Ivaskuu)
+- [inKino](https://github.com/roughike/inKino) - A complete movie app that uses flutter_redux for state management, has nice transition animations, and a comprehensive set of widget & unit tests, by [Iiro Krankka](https://github.com/roughike)
 
 ## Frameworks
 
@@ -276,6 +281,7 @@ Single Codebase, Two Apps with Flutter and Firebase (Google I/O '17)
 - [Ecuestre Digital](https://itunes.apple.com/mx/app/ecuestre-digital/id1183799348?mt=8) - Ecuestre Digital provides real-time results and video streaming of Equestrian Events.
 <!--- - [Scrumizer](https://play.google.com/store/apps/details?id=com.robbieone.scrumizer) - Scrum master and product owner certification trainer by [Robert Felker](https://www.linkedin.com/in/robert-felker/) --->
 - [Hookle](https://www.hookle.net/) - Manage your social media in one place
+- [inKino](https://github.com/roughike/inKino) - A complete movie app that uses flutter_redux for state management, has nice transition animations, and a comprehensive set of widget & unit tests, by [Iiro Krankka](https://github.com/roughike)
 
 ## License
 
