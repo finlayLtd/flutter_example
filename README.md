@@ -89,11 +89,6 @@ Single Codebase, Two Apps with Flutter and Firebase (Google I/O '17)
 - [Build your plugins](https://medium.com/@KarthikPonnam/build-your-own-plugin-for-flutter-cfee1a08ea3a) - How to make a custom plug-in for flutter ? by [Karthik Ponnam](https://medium.com/@KarthikPonnam)
 - [Build Flavor](https://medium.com/@salvatoregiordanoo/flavoring-flutter-392aaa875f36) - Define build configurations and switch them by [Salvatore Giordano](https://medium.com/@salvatoregiordanoo)
 
-#### Build Automation
-
-- [Test Flutter on Travis](https://medium.com/@yegorj/test-flutter-apps-on-travis-3fd5142ecd8c) - Widget testing framework by [Yegor Jbanov](https://twitter.com/yegorjbanov)
-- [Building Apks/Ipas on Travis](https://medium.com/@yegorj/building-flutter-apks-and-ipas-on-travis-98d84d8e9b4) - Automated build for Android and IOS by [Yegor Jbanov](https://twitter.com/yegorjbanov)
-
 ## Components
 
 ### Demonstrations
@@ -166,7 +161,13 @@ Single Codebase, Two Apps with Flutter and Firebase (Google I/O '17)
 ### Build & Development
 
 - [Mutisya](http://mutisya.com/) - Online Flutter Studio by [Paul Mutisya](https://medium.com/@pmutisya)
+
+#### Build automation
+
 - [Travis CI for Flutter](https://github.com/yjbanov/flutter_travis_sample) - Continuous integration by [Yegor Jbanov](https://twitter.com/yegorjbanov)
+- [Test Flutter on Travis](https://medium.com/@yegorj/test-flutter-apps-on-travis-3fd5142ecd8c) - Widget testing framework by [Yegor Jbanov](https://twitter.com/yegorjbanov)
+- [Building Apks/Ipas on Travis](https://medium.com/@yegorj/building-flutter-apks-and-ipas-on-travis-98d84d8e9b4) - Automated build for Android and IOS by [Yegor Jbanov](https://twitter.com/yegorjbanov)
+- [BitRise](https://medium.com/@karol.wrotniak/how-to-create-bitrise-step-in-go-flutter-example-668cf4db1fd2) - Create Bitrise Step in Go by [Karol Wrótniak](https://medium.com/@karol.wrotniak)
 
 ### Styling
 
@@ -232,8 +233,7 @@ Single Codebase, Two Apps with Flutter and Firebase (Google I/O '17)
 - [Geolocation](https://github.com/loup-v/geolocation) - Fully featured geolocation plugin: current location, location updates, geocode, places and more by [Loup](http://intheloup.io)
 - [Local Notifications](https://github.com/MaikuB/flutter_local_notifications) - Plugin for displaying local notifications by [Michael Bui](https://github.com/MaikuB)
 - [Google Mobile Vision](https://github.com/edufolly/flutter_mobile_vision) - Implementation of Google Mobile Vision by [Eduardo Folly](https://github.com/edufolly)
-- [App Rating](https://github.com/AppleEducate/app_review) - A Plugin for Requesting and Writing Reviews for the App Store and Google Play by [Rody Davis](http://appleeducate.com)
-- [Get Version](https://github.com/AppleEducate/get_version) - A Plugin to get Version Name, Version Code, App ID and Platform with OS Version by [Rody Davis](http://appleeducate.com)
+- [App Rating](https://github.com/AppleEducate/app_review) - App Story and Google Play Ratings by [Rody Davis](http://appleeducate.com)
 
 ### Plugins development
 
