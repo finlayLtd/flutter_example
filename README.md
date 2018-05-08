@@ -44,10 +44,10 @@ If you appreciate the content 📖 please give a ⭐ to help project visibility.
 
 ## Introduction
 
-<a href="https://www.youtube.com/watch?v=w2TcYP8qiRI&list=PLlpxjI4sVd-zZ1jpJHJMSHGiWInsvwwf_&index=1">
-<img width="500" alt="screen shot 2017-05-09 at 14 24 22" src="https://i.ytimg.com/vi/w2TcYP8qiRI/hqdefault.jpg?custom=true&w=246&h=138&stc=true&jpg444=true&jpgq=90&sp=68&sigh=zXUvkCX43IUEGlt5LkrvJcNRvEc">
+<a href="https://www.youtube.com/watch?v=GCCjR0mbJMM&feature=youtu.be">
+<img width="500" src="https://i.ytimg.com/vi/GCCjR0mbJMM/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLBqUsMLcLjhAs-_Bp-PvM_jbqGSwQ">
 <br>
-Single Codebase, Two Apps with Flutter and Firebase (Google I/O '17)
+Introduction to Flutter - Faisal Abid
 </a>
 
 ## Articles
@@ -88,11 +88,6 @@ Single Codebase, Two Apps with Flutter and Firebase (Google I/O '17)
 - [Flutter Redux Todo](https://github.com/xqwzts/flutter-redux-todo-list) - Todo application by [Victor Choueiri](https://github.com/xqwzts)
 - [Build your plugins](https://medium.com/@KarthikPonnam/build-your-own-plugin-for-flutter-cfee1a08ea3a) - How to make a custom plug-in for flutter ? by [Karthik Ponnam](https://medium.com/@KarthikPonnam)
 - [Build Flavor](https://medium.com/@salvatoregiordanoo/flavoring-flutter-392aaa875f36) - Define build configurations and switch them by [Salvatore Giordano](https://medium.com/@salvatoregiordanoo)
-
-#### Build Automation
-
-- [Test Flutter on Travis](https://medium.com/@yegorj/test-flutter-apps-on-travis-3fd5142ecd8c) - Widget testing framework by [Yegor Jbanov](https://twitter.com/yegorjbanov)
-- [Building Apks/Ipas on Travis](https://medium.com/@yegorj/building-flutter-apks-and-ipas-on-travis-98d84d8e9b4) - Automated build for Android and IOS by [Yegor Jbanov](https://twitter.com/yegorjbanov)
 
 ## Components
 
@@ -166,7 +161,13 @@ Single Codebase, Two Apps with Flutter and Firebase (Google I/O '17)
 ### Build & Development
 
 - [Mutisya](http://mutisya.com/) - Online Flutter Studio by [Paul Mutisya](https://medium.com/@pmutisya)
+
+#### Build automation
+
 - [Travis CI for Flutter](https://github.com/yjbanov/flutter_travis_sample) - Continuous integration by [Yegor Jbanov](https://twitter.com/yegorjbanov)
+- [Test Flutter on Travis](https://medium.com/@yegorj/test-flutter-apps-on-travis-3fd5142ecd8c) - Widget testing framework by [Yegor Jbanov](https://twitter.com/yegorjbanov)
+- [Building Apks/Ipas on Travis](https://medium.com/@yegorj/building-flutter-apks-and-ipas-on-travis-98d84d8e9b4) - Automated build for Android and IOS by [Yegor Jbanov](https://twitter.com/yegorjbanov)
+- [BitRise](https://medium.com/@karol.wrotniak/how-to-create-bitrise-step-in-go-flutter-example-668cf4db1fd2) - Create Bitrise Step in Go by [Karol Wrótniak](https://medium.com/@karol.wrotniak)
 
 ### Styling
 
@@ -232,6 +233,7 @@ Single Codebase, Two Apps with Flutter and Firebase (Google I/O '17)
 - [Geolocation](https://github.com/loup-v/geolocation) - Fully featured geolocation plugin: current location, location updates, geocode, places and more by [Loup](http://intheloup.io)
 - [Local Notifications](https://github.com/MaikuB/flutter_local_notifications) - Plugin for displaying local notifications by [Michael Bui](https://github.com/MaikuB)
 - [Google Mobile Vision](https://github.com/edufolly/flutter_mobile_vision) - Implementation of Google Mobile Vision by [Eduardo Folly](https://github.com/edufolly)
+- [Carousel Slider](https://github.com/serenader2014/flutter_carousel_slider) - A carousel slider widget, support infinite scroll and custom child widget by [serenader](https://github.com/serenader2014)
 - [App Rating](https://github.com/AppleEducate/app_review) - Requesting and Writing Reviews for the App Store and Google Play by [Rody Davis](http://appleeducate.com)
 - [Get Version](https://github.com/AppleEducate/get_version) - Version Name, Version Code, App ID and Platform with OS Version by [Rody Davis](http://appleeducate.com)
 
