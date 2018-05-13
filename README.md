@@ -65,7 +65,6 @@ Introduction to Flutter - Faisal Abid
 - [Animated Chat](https://codelabs.developers.google.com/codelabs/flutter/#0) - Building beautiful UIs with Flutter by Google Code Labs
 - [Firebase Chat](https://codelabs.developers.google.com/codelabs/flutter-firebase/#0) - Firebase Flutter by Google Code Labs
 - [Planets-Flutter: from design to app](http://sergiandreplace.com/2017/09/planets-flutter-from-design-to-app)
-- [Flutter by Example](https://flutterbyexample.com/) Multiple tutorials for building small Flutter apps, including using Flutter Redux, Firebase, Custom Animations, and UI. 
 
 #### Video Series
 - [Tensor Programming](https://www.youtube.com/watch?v=WwhyaqNtNQY&list=PLJbE2Yu2zumDqr_-hqpAN0nIr6m14TAsd) - Very rich content by [Tensor Programming](http://tensor-programming.com/)
@@ -274,6 +273,7 @@ Introduction to Flutter - Faisal Abid
 - [Music Player](https://github.com/iampawan/Flutter-Music-Player) - Full featured music player by [Pawan Kumar](https://about.me/imthepk)
 - [Planty](https://github.com/Ivaskuu/plantly) - Plants shop by [Ivascu Adrian](https://github.com/Ivaskuu)
 - [inKino](https://github.com/roughike/inKino) - Complete movie app that uses flutter_redux for state management, has nice transition animations, and a comprehensive set of widget & unit tests, by [Iiro Krankka](https://github.com/roughike)
+- [WhatTodo](https://github.com/burhanrashid52/WhatTodo) -  Todoist like UI by [Burhanuddin Rashid](https://about.me/burhanrashid52)
 
 ## Frameworks
 
