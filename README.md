@@ -86,11 +86,9 @@ Introduction to Flutter - Faisal Abid
 - [Build your plugins](https://medium.com/@KarthikPonnam/build-your-own-plugin-for-flutter-cfee1a08ea3a) - How to make a custom plug-in for flutter ? by [Karthik Ponnam](https://medium.com/@KarthikPonnam)
 - [Build Flavor](https://medium.com/@salvatoregiordanoo/flavoring-flutter-392aaa875f36) - Define build configurations and switch them by [Salvatore Giordano](https://medium.com/@salvatoregiordanoo)
 
-### Websites / Blogs
+### Blogs
 
 - [SZAŁKO-BLOG](https://marcinszalek.pl/) - Step by step advanced design by [Marcin Szalek]()
-- [Sergi & Replace](https://sergiandreplace.com/) - Basic to advanced articles and tutorials [Sergi Martínez](https://github.com/sergiandreplace)
-
 
 ## Components
 
@@ -113,6 +111,8 @@ Introduction to Flutter - Faisal Abid
 - [Radial Menu](https://github.com/xqwzts/flutter_radial_menu) - Animated Radial Menu by [Victor Choueiri](https://github.com/xqwzts)
 - [Tinder Cards](https://github.com/Ivaskuu/tinder_cards) - Tinder like cards swipe effect by [Ivascu Adrian](https://github.com/Ivaskuu)
 - [Sticky Headers](https://github.com/slightfoot/flutter_sticky_headers) - Configurable sticky headers by [Simon Lightfoot](http://www.devangels.london/)
+- [Login-Home Animation](https://github.com/GeekyAnts/flutter-login-home-animation) -  Implementing super smooth animations in your Flutter App by [Ruchika Gupta](https://github.com/geekruchika)
+
 
 ### Image
 
@@ -218,7 +218,6 @@ Introduction to Flutter - Faisal Abid
 - [Cupertino Settings](https://github.com/matthinc/flutter_cupertino_settings) - iOS Settings by [Matthias Rupp](https://github.com/matthinc)
 - [Music Player](https://github.com/thosakwe/flutter_music_player) - music player component by [Tobe O](https://thosakwe.com/)
 - [Dashboard](https://github.com/Ivaskuu/dashboard) - Dashboard and Shop Items by [Ivascu Adrian](https://github.com/Ivaskuu)
-- [Todo](https://github.com/littlemarc2011/FlutterTodo) - Todo template from Dribble by [Marc L](https://www.marc-little.com/)
 
 ## Utilities
 
@@ -246,6 +245,10 @@ Introduction to Flutter - Faisal Abid
 - [App Rating](https://github.com/AppleEducate/app_review) - Requesting and Writing Reviews for the App Store and Google Play by [Rody Davis](http://appleeducate.com)
 - [Get Version](https://github.com/AppleEducate/get_version) - Version Name, Version Code, App ID and Platform with OS Version by [Rody Davis](http://appleeducate.com)
 
+### Plugins development
+
+- [Plugins Help](https://github.com/freewheelnat/flutter_plugins_help) - Connecting Android and iOS developers to develop flutter plugins by [Natalie Masse Hooper](https://twitter.com/NatJM)
+
 ### Bluetooth / NFC
 
  - [Flutter Ble](https://github.com/Polidea/FlutterBleLib) - Bluetooth by [Polidea](http://www.polidea.com)
@@ -256,13 +259,19 @@ Introduction to Flutter - Faisal Abid
 
 - [FriendlyChat](https://github.com/flutter/friendlychat-flutter) - Offline/Firebase chat by a team of Googlers
 - [Meme Chat](https://github.com/efortuna/memechat) - Chat app on Flutter, using Firebase, Google Sign In, and device camera integration by a team of Googlers
+- [Flutter News](https://github.com/andresaraujo/flutter_news) - Hacker News client by [Andres Araujo](http://andresaraujo.co)
 - [Flitter](https://github.com/dart-flitter/flitter) - Glitter app by [Hadrien Lejard](https://twitter.com/HadrienLejard) and [Kevin Segaud](https://twitter.com/kevin_segaud). It use the Redux and Jaguar !
 - [Cooking App](https://github.com/oscarcpozas/cooking-app-flutter) - by Óscar Caballero in the kitchen
 - [Lime](https://github.com/fablue/lime-flutter) - Lime social network by Sebastian Sellmair
+- [Flitch](https://github.com/matanlurey/flitch) - Twitch client for Flutter by [Matan Lurey](https://twitter.com/matanlurey).
+- [WikiFlutter](https://github.com/nanowang/wiki-flutter) - Wikipedia reader by [Nano WANG](https://github.com/nanowang)
+- [DartHub](https://github.com/SamThompson/dart_hub) - GitHub client written in flutter by [Sam Thompson](https://github.com/SamThompson)
 - [Planets-Flutter](https://github.com/sergiandreplace/flutter_planets_tutorial) - Planet exploration that demonstrate rich UI by [Sergi Martínez](http://sergiandreplace.com)
 - [NewsBuzz](https://github.com/theankurkedia/NewsBuzz) - Firebase backed news reader using News API by [Ankur Kedia](https://github.com/theankurkedia)
+- [Fluvies](https://github.com/dilpreet96/Fluvies.git) - Movie browsing app using MVP, PathProviders, FutureBuilders and Database by [Dilpreet Singh](https://github.com/dilpreet96)
 - [DroidKaigi2018-flutter](https://github.com/konifar/droidkaigi2018-flutter) - Unofficial conference app for DroidKaigi 2018 Tokyo by [konifar](https://github.com/konifar)
 - [Heroes Companion](https://github.com/arranf/Heroes-Companion) - Companion app for Heroes of Storm including redux and sqflite by [arranf](https://github.com/arranf)
+- [CryptoShadow](https://github.com/huextrat/CryptoShadow) - CryptoCurrency Tracker by [Hugo EXTRAT](https://github.com/huextrat)
 - [Trovami](https://github.com/Samaritan1011001/Trovami) - Live location sharing app built on Flutter and Firebase as backend by [Manoj NB](https://github.com/Samaritan1011001)
 - [Music Player](https://github.com/iampawan/Flutter-Music-Player) - Full featured music player by [Pawan Kumar](https://about.me/imthepk)
 - [Planty](https://github.com/Ivaskuu/plantly) - Plants shop by [Ivascu Adrian](https://github.com/Ivaskuu)
@@ -271,27 +280,33 @@ Introduction to Flutter - Faisal Abid
 
 ## Frameworks
 
-### Flux / Redux / ELM
+### Flux / Redux
 
-- [Flutter_flux](https://github.com/google/flutter_flux) - Implementation of the Flux framework by Google
-- [Flutter built redux](https://github.com/davidmarne/flutter_built_redux) - Automatic subscribing to your redux stores. Based on the built pattern by [David Marne](https://github.com/davidmarne)
-- [Redux.dart](https://github.com/johnpryan/redux.dart) - Port of Redux to Dart with an ecosystem of middleware, Flutter integrations, and time traveling dev tools by [John Ryan](https://github.com/johnpryan) and [Brian Egan](https://gitlab.com/users/brianegan/projects)
-- [Flutter_redux](https://github.com/brianegan/flutter_redux) - Built to work with [redux.dart](https://github.com/johnpryan/redux.dart), utilities that allow you to easily consume a Redux Store to build Flutter Widgets.
 - [GreenCat](https://github.com/alexeieleusis/greencat) - Port of Redux to Dart, including Redux Thunk
-- [Dartea](https://pub.dartlang.org/packages/dartea) - Model View Update inspired by TEA from ELM by 
+- [Flutter built redux](https://github.com/davidmarne/flutter_built_redux) - Automatic subscribing to your redux stores. Based on the built pattern by [David Marne](https://github.com/davidmarne)
+- [redux.dart](https://github.com/johnpryan/redux.dart) - Port of Redux to Dart with an ecosystem of middleware, Flutter integrations, and time traveling dev tools by [John Ryan](https://github.com/johnpryan) and [Brian Egan](https://gitlab.com/users/brianegan/projects)
+- [flutter_redux](https://github.com/brianegan/flutter_redux) - Built to work with [redux.dart](https://github.com/johnpryan/redux.dart), utilities that allow you to easily consume a Redux Store to build Flutter Widgets.
 
 ### Game
 
 - [Flame](https://github.com/luanpotter/flame) - Minimalist game engine by [Luan Nico](https://github.com/luanpotter)
+
+## Helpers
+
+- [Official Mailing list](https://groups.google.com/forum/m/#!forum/flutter-dev) - Discussions, support, exchange on Flutter
+- [StackOverflow](https://stackoverflow.com/questions/tagged/flutter) - Flutter team members in depth responses to your questions
+- [Reddit FlutterDev](https://www.reddit.com/r/FlutterDev/) - Official Reddit chamber
 
 ## Bonus
 
 ### Published Apps
 - Hamilton ([iOS](https://itunes.apple.com/fr/app/hamilton-the-official-app/id1255231054?mt=8&ign-mpt=uo%3D4) / [Android](https://play.google.com/store/apps/details?id=com.hamilton.app)) - Introducing Hamilton — The Official App. Fans’ access to all things Hamilton: An American Musical.
 - Newsvoice ([iOS](https://itunes.apple.com/se/app/newsvoice/id1208421834?l=en&mt=8) / [Android](https://play.google.com/store/apps/details?id=com.newsvoice.newsvoice)) - Newsvoice shows all the news and perspectives from high quality sources in one place.
+- [Bendometer](https://itunes.apple.com/us/app/bendometer/id772557902?mt=8) - "Harmonica tuner". Learn how to play bends on your harmonica.
+- [Ecuestre Digital](https://itunes.apple.com/mx/app/ecuestre-digital/id1183799348?mt=8) - Ecuestre Digital provides real-time results and video streaming of Equestrian Events.
+<!--- - [Scrumizer](https://play.google.com/store/apps/details?id=com.robbieone.scrumizer) - Scrum master and product owner certification trainer by [Robert Felker](https://www.linkedin.com/in/robert-felker/) --->
 - [Hookle](https://www.hookle.net/) - Manage your social media in one place
 - [inKino](https://github.com/roughike/inKino) - Complete movie app that uses flutter_redux for state management, has nice transition animations, and a comprehensive set of widget & unit tests, by [Iiro Krankka](https://github.com/roughike)
-<!--- - [Scrumizer](https://play.google.com/store/apps/details?id=com.robbieone.scrumizer) - Scrum master and product owner certification trainer by [Robert Felker](https://www.linkedin.com/in/robert-felker/) --->
 
 ## License
 
