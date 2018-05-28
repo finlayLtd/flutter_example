@@ -90,6 +90,7 @@ Introduction to Flutter - Faisal Abid
 - [Sergi & Replace](https://sergiandreplace.com/) - Basic to advanced articles and tutorials [Sergi Martínez](https://github.com/sergiandreplace)
 - [Flutter by Example](https://flutterbyexample.com/) Tutorials and Howto based on Redux, Firebase, Custom Animations, and UI
 - [Flutter Institute](https://flutter.institute/) Very original content and tutorials by [Brian Armstrong](https://twitter.com/flutterinst)
+- [Flutter Rocks](https://flutter.rocks/) A blog about the joys of Flutter by [Iiro Krankka](https://twitter.com/koorankka)
 
 ## Components
 
@@ -274,6 +275,10 @@ Introduction to Flutter - Faisal Abid
 - [Planty](https://github.com/Ivaskuu/plantly) - Plants shop by [Ivascu Adrian](https://github.com/Ivaskuu)
 - [inKino](https://github.com/roughike/inKino) - Complete movie app that uses flutter_redux for state management, has nice transition animations, and a comprehensive set of widget & unit tests, by [Iiro Krankka](https://github.com/roughike)
 - [WhatTodo](https://github.com/burhanrashid52/WhatTodo) -  Todoist like UI by [Burhanuddin Rashid](https://about.me/burhanrashid52)
+
+### Games
+
+- [Flip](https://github.com/RedBrogdon/flutterflip) Reversi game by [Andrew Brogdon](https://github.com/RedBrogdon) 
 
 ## Frameworks
 
