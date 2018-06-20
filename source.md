@@ -129,7 +129,6 @@ Also like 👍, star ⭐, clap 👏 links to support their authors !
 - [Carousel Slider](https://github.com/serenader2014/flutter_carousel_slider) <!--stargazers:serenader2014/flutter_carousel_slider--> - Carousel slider widget, support infinite scroll and custom child widget by [serenader](https://github.com/serenader2014)
 - [Parallax Image](https://github.com/pulyaevskiy/parallax-image) <!--stargazers:pulyaevskiy/parallax-image--> - Image parallax by [Anatoly Pulyaevskiy](https://github.com/pulyaevskiy)
 - [Photo View](https://github.com/renancaraujo/photo_view) <!--stargazers:renancaraujo/photo_view--> - Scalable image view with loading placeholder by [Renan C. Araújo](https://github.com/renancaraujo)
-- [Flutter SVG](https://github.com/dnfield/flutter_svg) <!--stargazers:dnfield/flutter_svg--> - SVG parsing, rendering, and widget library by [Dan Field](https://github.com/dnfield)
 
 ### Map
 
@@ -251,7 +250,6 @@ Also like 👍, star ⭐, clap 👏 links to support their authors !
 - [Place Dialog](https://github.com/pinkfish/flutter_places_dialog) <!--stargazers:pinkfish/flutter_places_dialog--> - Places picker dialog returning the places to the app by [David Bennett](https://github.com/pinkfish)
 - [Cached Network Image](https://github.com/renefloor/flutter_cached_network_image) <!--stargazers:renefloor/flutter_cached_network_image--> - Show images from the internet and keep them in the cache directory by [Rene Floor](https://github.com/renefloor)
 - [Device Calendar](https://github.com/builttoroam/flutter_plugins/tree/develop/device_calendar) - Plugin for modifying calendars on the user's device by [Built to Roam](http://builttoroam.com)
-- [Android Job Scheduler](https://github.com/talkdirty/android_job_scheduler) ![android](https://user-images.githubusercontent.com/1295961/41648590-9ed8c5cc-7479-11e8-8248-3820589d8ab9.png) <!--stargazers:talkdirty/android_job_scheduler--> - Directly manage android system schedules by [Georg Grab](https://github.com/talkdirty)
 
 ### Bluetooth / NFC / Beacon
 
@@ -307,6 +305,8 @@ Also like 👍, star ⭐, clap 👏 links to support their authors !
 
 ## Utilities
 
+
+
 ### IDE
 
 - [IntelliJ Plugin](https://flutter.io/intellij-setup) - Flutter on Intellij and Webstorm.
@@ -318,6 +318,10 @@ Also like 👍, star ⭐, clap 👏 links to support their authors !
 
 - [Desktop Embedding](https://github.com/google/flutter-desktop-embedding) <!--stargazers:google/flutter-desktop-embedding--> - Desktop implementations of the Flutter embedding API by Google
 - [ZSH Completion](https://github.com/NiKoTron/zsh-flutter-completition) <!--stargazers:NiKoTron/zsh-flutter-completition--> - ZSH completion for the Flutter CLI tool by [Nikolai Simonov](https://github.com/NiKoTron)
+
+### Helpers
+
+- [Flutter Launcher Icons](https://github.com/franzsilva/flutter_launcher_icons) - Easy way to generate launcher icons for your Flutter app by [Mark O'Sullivan](https://github.com/MarkOSullivan94) and [Franz Silva](https://github.com/franzsilva)
 
 ## License
 
