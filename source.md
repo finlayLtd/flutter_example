@@ -88,7 +88,8 @@ Also 👍| ⭐| 👏 links to support their authors !
 ### Advanced
 
 - [Rendering Pipeline](https://www.youtube.com/watch?v=UUfXWzp0-DU) <!--youtube:video/UUfXWzp0-DU--> - Engine architecture by Adam Barth
-- [Render Objects](https://medium.com/flutter-community/flutter-what-are-widgets-renderobjects-and-elements-630a57d05208) <!--claps:flutter-community/flutter-what-are-widgets-renderobjects-and-elements-630a57d05208--> - What are Widgets, RenderObjects and Elements? by [Norbert515](https://github.com/Norbert515) 
+- [Render Objects](https://medium.com/flutter-community/flutter-what-are-widgets-renderobjects-and-elements-630a57d05208) <!--claps:flutter-community/flutter-what-are-widgets-renderobjects-and-elements-630a57d05208--> - What are Widgets, RenderObjects and Elements? by [Norbert515](https://github.com/Norbert515)
+- [Streams and RxDart](https://skillsmatter.com/skillscasts/12254-flutter-with-streams-and-rxdart) - Skillmatters presentation by [Brian Egan](https://github.com/brianegan) 
 
 ## Videos
 - [Tensor Programming](https://www.youtube.com/watch?v=WwhyaqNtNQY&list=PLJbE2Yu2zumDqr_-hqpAN0nIr6m14TAsd) <!--youtube:list/PLJbE2Yu2zumDqr_-hqpAN0nIr6m14TAsd--> - Very rich content by [Tensor Programming](http://tensor-programming.com/)
@@ -232,7 +233,6 @@ Also 👍| ⭐| 👏 links to support their authors !
 - [Admob](https://pub.dartlang.org/packages/admob) - GoogleAdmob supports interstitial ads in both iOS and Android by Brett Nesbitt
 - [Firebase AdMob](https://github.com/flutter/plugins/tree/master/packages/firebase_admob) - Ad integration using Firebase
 - [Billing](https://github.com/VolodymyrLykhonis/flutter_billing) <!--stargazers:VolodymyrLykhonis/flutter_billing--> - Enable billing on iOS and Android by [Volodymyr Lykhonis](http://vladimirlichonos.com)
-- [Payments](https://github.com/pplante/flutter_payments) <!--stargazers:pplante/flutter_payments--> - Flutter In App Purchases & Subscriptions For Humans by [Delightful Goods](https://delightfulgoods.co)
 
 ## Templates
 
