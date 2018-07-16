@@ -124,7 +124,6 @@ Also 👍| ⭐| 👏 links to support their authors !
 - [Shimmer](https://github.com/hnvn/flutter_shimmer) <!--stargazers:hnvn/flutter_shimmer--> - Shimmer effect while content is loading by [HungHD](https://github.com/hnvn)
 - [Flip Panel](https://github.com/hnvn/flutter_flip_panel) <!--stargazers:hnvn/flutter_flip_panel--> - Flip panel with built-in animation by [HungHD](https://github.com/hnvn)
 - [Facebook Reactions](https://github.com/duytq94/facebook-reaction-animation) <!--stargazers:duytq94/facebook-reaction-animation--> - Facebook reactions widget by [Duy Tran](https://github.com/duytq94)
-- [Swipe Detector](https://github.com/gurleensethi/swipedetector) <!--stargazers:gurleensethi/swipedetector--> - Swipe Detector by [Gurleen Sethi](https://github.com/gurleensethi)
 
 #### Material Design
 
@@ -184,6 +183,8 @@ Also 👍| ⭐| 👏 links to support their authors !
 - [Markdown](https://github.com/flutter/flutter_markdown) <!--stargazers:flutter/flutter_markdown--> - Markdown renderer for Flutter. It supports the original format, but no inline html
 - [Rich Text Editor](https://github.com/long1eu/rich_editor) <!--stargazers:long1eu/rich_editor--> - Text editor with style by [Lung Razvan](https://github.com/long1eu)
 - [Masked Text](https://github.com/benhurott/flutter-masked-text) <!--stargazers:benhurott/flutter-masked-text--> - Masked text with custom and monetary formatting by [Ben-hur Santos Ott](https://github.com/benhurott)
+- [Zefyr](https://github.com/memspace/zefyr) <!--stargazers:memspace/zefyr--> - Soft and gentle rich text editing by [Memspace](https://github.com/memspace/zefyr)
+
 
 ### Analytics
 
