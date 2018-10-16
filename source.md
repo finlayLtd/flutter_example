@@ -73,6 +73,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Securing Apps](https://medium.com/@mehmetf_71205/securing-flutter-apps-ada13e806a69) <!--claps:@mehmetf_71205/securing-flutter-apps-ada13e806a69--> - By Mehmet Fidanboylu
 - [Build your plugins](https://medium.com/@KarthikPonnam/build-your-own-plugin-for-flutter-cfee1a08ea3a) <!--claps:@KarthikPonnam/build-your-own-plugin-for-flutter-cfee1a08ea3a--> - How to make a custom plug-in by [Karthik Ponnam](https://medium.com/@KarthikPonnam)
 - [Build Flavor](https://medium.com/@salvatoregiordanoo/flavoring-flutter-392aaa875f36) <!--claps:@salvatoregiordanoo/flavoring-flutter-392aaa875f36--> - Define build configurations and switch them by [Salvatore Giordano](https://medium.com/@salvatoregiordanoo)
+- [Animations in Flutter](https://proandroiddev.com/animations-in-flutter-6e02ee91a0b2) <!--claps:@muhammedsalihguler/animations-in-flutter-6e02ee91a0b2--> - Commonly used animation examples by [Muhammed Salih Güler](https://proandroiddev.com/@muhammedsalihguler)
 
 ### Websites / Blogs
 
@@ -93,6 +94,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Gesture System](https://medium.com/flutter-community/flutter-deep-dive-gestures-c16203b3434f) <!--claps:flutter-community/flutter-deep-dive-gestures-c16203b3434f--> - Flutter Deep Dive: Gestures by [Nash](https://nash0x7e2.github.io/)
 - [Schemas](https://www.didierboelens.com/2018/06/widget---state---context---inheritedwidget/) - Widget, State, Context and InheritedWidget explanations by [Didier Boelens](https://didierboelens.com)
 - [Rendering Engine Tutorial](https://medium.com/saugo360/flutters-rendering-engine-a-tutorial-part-1-e9eff68b825d) <!--claps:saugo360/flutters-rendering-engine-a-tutorial-part-1-e9eff68b825d--> - Flutter's Rendering Engine: A Tutorial by [AbdulRahman AlHamali](https://github.com/AbdulRahmanAlHamali/)
+- [Inherited Widget](https://medium.com/@chemamolins/is-flutters-inheritedwidget-a-good-fit-to-hold-app-state-2ec5b33d023e) - Flutter’s InheritedWidget to hold app state by [Chema Molins](https://github.com/jmolins)
 
 ## Videos
 
