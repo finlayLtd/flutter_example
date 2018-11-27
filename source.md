@@ -116,7 +116,6 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 - [Official Gallery](https://github.com/flutter/flutter/tree/master/examples/flutter_gallery) - Demo for the material design widgets provided by Flutter Team
 - [Flutter Examples](https://github.com/nisrulz/flutter-examples) <!--stargazers:nisrulz/flutter-examples--> - Simple basic isolated apps for devs by [Nishant Srivastava](https://github.com/nisrulz)
-- [Transform Widget](https://github.com/DrPaulT/flutter-engine-test) - Image widgets as 3D game engine sprites by [Paul Thomas](https://github.com/DrPaulT)
 
 ### UI
 
@@ -327,6 +326,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [OneSignal](https://github.com/OneSignal/OneSignal-Flutter-SDK) <!--stargazers:OneSignal/OneSignal-Flutter-SDK--> - Push notification service by [OneSignal](https://github.com/OneSignal)
 - [Place Dialog](https://github.com/pinkfish/flutter_places_dialog) <!--stargazers:pinkfish/flutter_places_dialog--> - Places picker dialog returning the places to the app by [David Bennett](https://github.com/pinkfish)
 - [App Rating](https://github.com/AppleEducate/app_review) <!--stargazers:AppleEducate/app_review--> - Requesting and Writing Reviews for the App Store and Google Play by [Rody Davis](http://appleeducate.com)
+- [IBM Watson](https://github.com/VictorRancesCode/flutter_ibm_watson) <!--stargazers:VictorRancesCode/flutter_ibm_watson--> Easily integrate with IBM Watson by [Victor Rances](https://github.com/VictorRancesCode/)
 
 ## Frameworks
 
