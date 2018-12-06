@@ -65,6 +65,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Animated Chat](https://codelabs.developers.google.com/codelabs/flutter/#0) - Building beautiful UIs by Google Code Labs
 - [Firebase Chat](https://codelabs.developers.google.com/codelabs/flutter-firebase/#0) - Firebase integration by Google Code Labs
 - [Planets-Flutter: from design to app](http://sergiandreplace.com/2017/09/planets-flutter-from-design-to-app) - Detailed planets design tutorial
+- [Todo List](https://github.com/lesnitsky/todolist_flutter) – Step by step tutorial how to build Todo List with Flutter by [Andrei Lesnitsky](https://twitter.com/lesnitsky_a)
 
 ### Howtos
 
@@ -96,6 +97,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Schemas](https://www.didierboelens.com/2018/06/widget---state---context---inheritedwidget/) - Widget, State, Context and InheritedWidget explanations by [Didier Boelens](https://didierboelens.com)
 - [Rendering Engine Tutorial](https://medium.com/saugo360/flutters-rendering-engine-a-tutorial-part-1-e9eff68b825d) <!--claps:saugo360/flutters-rendering-engine-a-tutorial-part-1-e9eff68b825d--> - Flutter's Rendering Engine: A Tutorial by [AbdulRahman AlHamali](https://github.com/AbdulRahmanAlHamali/)
 - [Inherited Widget](https://medium.com/@chemamolins/is-flutters-inheritedwidget-a-good-fit-to-hold-app-state-2ec5b33d023e) - Flutter’s InheritedWidget to hold app state by [Chema Molins](https://github.com/jmolins)
+- [Flutter: from Mobile to Desktop](https://medium.com/flutter-community/flutter-from-mobile-to-desktop-93635e8de64e) - Building applications for smartphones and desktops by [Marcelo Henrique Neppel](https://neppel.com.br)
 
 ## Videos
 
@@ -135,7 +137,8 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Offline](https://github.com/jogboms/flutter_offline) <!--stargazers:jogboms/flutter_offline--> - Tidy utility to handle offline/online connectivity by [Jeremiah Ogbomo](https://twitter.com/jogboms).
 - [Typeahead](https://github.com/AbdulRahmanAlHamali/flutter_typeahead) <!--stargazers:AbdulRahmanAlHamali/flutter_typeahead--> - Display overlay suggestions to users as they type by [Abdul Rahman Al Hamali](https://github.com/AbdulRahmanAlHamali)
 - [Snaplist](https://github.com/ariedov/flutter_snaplist) <!--stargazers:ariedov/flutter_snaplist--> - Create snappable list views by [David Leibovych](https://github.com/ariedov)
-- [Fluid Slider](https://github.com/rvamsikrishna/flutter_fluid_slider)  - A slider with a minimal design and fluid like animation by [Vamsi  Krishna](https://github.com/rvamsikrishna)
+- [Fluid Slider](https://github.com/rvamsikrishna/flutter_fluid_slider) <!--stargazers:rvamsikrishna/flutter_fluid_slider--> - A slider with a minimal design and fluid like animation by [Vamsi  Krishna](https://github.com/rvamsikrishna)
+- [Infinite Listview](https://github.com/fluttercommunity/flutter_infinite_listview) <!--stargazers:fluttercommunity/flutter_infinite_listview--> - Infinite scroll in both directions by [Simon Lightfoot](https://github.com/slightfoot)
 
 #### Material Design
 
@@ -149,6 +152,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Frosted Glass](http://stackoverflow.com/questions/43550853/how-do-i-do-the-frosted-glass-effect-in-flutter) - Render effect by [Collin Jackson](http://www.collinjackson.com)
 - [Parallax](https://github.com/FlutterRocks/page-transformer) <!--stargazers:FlutterRocks/page-transformer--> - ViewPager by [Iiro Krankka](https://github.com/roughike)
 - [Shimmer](https://github.com/hnvn/flutter_shimmer) <!--stargazers:hnvn/flutter_shimmer--> - Shimmer effect while content is loading by [HungHD](https://github.com/hnvn)
+- [Wave](https://github.com/i-protoss/wave) <!--stargazers:i-protoss/wave--> - Displaying some waves with custom color, duration, floating and blur effects by [RockerFlower](https://github.com/RockerFlower)
 
 #### Calendar
 
@@ -165,6 +169,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [SVG](https://github.com/dnfield/flutter_svg) <!--stargazers:dnfield/flutter_svg--> - SVG parsing, rendering, and widget library by [Dan Field](https://github.com/dnfield)
 - [Image Cropper](https://github.com/hnvn/flutter_image_cropper) <!--stargazers:hnvn/flutter_image_cropper--> - Crop your images support ratio, rotation, zoom by [HungHD](https://github.com/hnvn)
 - [Cached Network Image](https://github.com/renefloor/flutter_cached_network_image) <!--stargazers:renefloor/flutter_cached_network_image--> - Show images from the internet and keep them in the cache directory by
+- [Multi Image Picker](https://github.com/Sh1d0w/multi_image_picker) <!--stargazers:Sh1d0w/multi_image_picker--> - Display multi image picker by [Radoslav Vitanov](https://github.com/Sh1d0w)
 
 ### Map
 
@@ -212,7 +217,6 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 - [Usage](https://github.com/dart-lang/usage) <!--stargazers:dart-lang/usage--> - Google Analytics wrapper for command-line, web, and Flutter apps
 - [Firebase Analytics](https://github.com/flutter/plugins/tree/master/packages/firebase_analytics) - Connect to Firebase Analytics API
-- [Pure Mixpanel](https://github.com/seenickcode/pure_mixpanel) <!--stargazers:seenickcode/pure_mixpanel--> - Analytics for the popular [Mixpanel.com](https://mixpanel.com) [Nick Manning](https://twitter.com/seenickcode)
 - [Segment.com Analytics](https://github.com/FaisalAbid/segment-analytics-flutter) <!--stargazers:FaisalAbid/segment-analytics-flutter--> - Make your Segment.com analytics a breeze! by [Faisal Abid](https://twitter.com/FaisalAbid)
 
 ### Build automation
@@ -291,7 +295,6 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Geolocation](https://github.com/loup-v/geolocation) <!--stargazers:loup-v/geolocation--> - Fully featured geolocation plugin: current location, location updates, geocode, places and more by [Loup](http://intheloup.io)
 - [Local Notifications](https://github.com/MaikuB/flutter_local_notifications) <!--stargazers:MaikuB/flutter_local_notifications--> - Plugin for displaying local notifications by [Michael Bui](https://github.com/MaikuB)
 - [Device Calendar](https://github.com/builttoroam/flutter_plugins/tree/develop/device_calendar) - Plugin for modifying calendars on the user's device by [Built to Roam](http://builttoroam.com)
-- [Android Job Scheduler](https://github.com/talkdirty/android_job_scheduler) ![android](https://user-images.githubusercontent.com/1295961/41648590-9ed8c5cc-7479-11e8-8248-3820589d8ab9.png) <!--stargazers:talkdirty/android_job_scheduler--> - Manage android schedules by [Georg Grab](https://github.com/talkdirty)
 - [Get Version](https://github.com/AppleEducate/get_version) <!--stargazers:AppleEducate/get_version--> - Version Name, Version Code, App ID and Platform with OS Version by [Rody Davis](http://appleeducate.com)
 - [Badger](https://github.com/g123k/flutter_app_badger) <!--stargazers:g123k/flutter_app_badger--> - Update app badge on the launcher by [Edouard Marquez](https://twitter.com/g123k)
 - [UDID](https://github.com/GigaDroid/flutter_udid) <!--stargazers:GigaDroid/flutter_udid--> -  Persistent UDID across app reinstalls by [Leon Kukuk](https://kukuk.me)
@@ -307,7 +310,6 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 #### Bluetooth / NFC / Beacon
 
-- [Ble](https://github.com/Polidea/FlutterBleLib) <!--stargazers:Polidea/FlutterBleLib--> - Bluetooth by [Polidea](http://www.polidea.com)
 - [Blue](https://github.com/pauldemarco/flutter_blue) <!--stargazers:pauldemarco/flutter_blue--> - Bluetooth by [Paul DeMarco](https://github.com/pauldemarco)
 - [Beacons](https://github.com/loup-v/beacons) <!--stargazers:loup-v/beacons--> - Flutter beacons plugin by [Loup](http://intheloup.io)
 - [NFC Reader](https://github.com/matteocrippa/flutter-nfc-reader) <!--stargazers:matteocrippa/flutter-nfc-reader--> - NFC reader plugin for iOS and Android by [Matteo Crippa](https://github.com/matteocrippa)
@@ -326,6 +328,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [OneSignal](https://github.com/OneSignal/OneSignal-Flutter-SDK) <!--stargazers:OneSignal/OneSignal-Flutter-SDK--> - Push notification service by [OneSignal](https://github.com/OneSignal)
 - [Place Dialog](https://github.com/pinkfish/flutter_places_dialog) <!--stargazers:pinkfish/flutter_places_dialog--> - Places picker dialog returning the places to the app by [David Bennett](https://github.com/pinkfish)
 - [App Rating](https://github.com/AppleEducate/app_review) <!--stargazers:AppleEducate/app_review--> - Requesting and Writing Reviews for the App Store and Google Play by [Rody Davis](http://appleeducate.com)
+- [IBM Watson](https://github.com/VictorRancesCode/flutter_ibm_watson) <!--stargazers:VictorRancesCode/flutter_ibm_watson--> Easily integrate with IBM Watson by [Victor Rances](https://github.com/VictorRancesCode/)
 
 ## Frameworks
 
@@ -377,6 +380,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Taskist](https://github.com/huextrat/Taskist) <!--stargazers:huextrat/Taskist--> - Taskist is a ToDo List app for Task Management by [Hugo EXTRAT](https://github.com/huextrat)
 - [Tourism](https://github.com/bluemix/tourism-demo) <!--stargazers:bluemix/tourism-demo--> - Tourism app based on redux w/ animations & i18n by [blueMix](https://github.com/bluemix/tourism-demo)
 - [Trinity Orientation @ Univ Toronto](https://github.com/matthewtory/trinity-orientation-2018) <!--stargazers:matthewtory/trinity-orientation-2018--> - Orientation week at Trinity College, U of T by [Matthew Tory](https://github.com/matthewtory)
+- [Transform Widget](https://github.com/DrPaulT/flutter-engine-test) - Image widgets as 3D game engine sprites by [Paul Thomas](https://github.com/DrPaulT)
 
 ### Block / Angular / PWA
 
@@ -388,6 +392,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [2048](https://github.com/anuranBarman/2048) <!--stargazers:anuranBarman/2048--> - 2048 game by [Anuran Barman](https://github.com/anuranBarman)
 - [TRex](https://github.com/renancaraujo/trex-flame) <!--stargazers:renancaraujo/trex-flame--> - Port of the famous Chrome's Trex game by [Renan C. Araújo](https://github.com/renancaraujo)
 - [Crush](https://github.com/boeledi/flutter_crush) <!--stargazers:boeledi/flutter_crush--> - How to build a Math-3 game, like Candy Crush, Bejeweled by [Didier Boelens](https://didierboelens.com)
+- [Slide Puzzle](https://github.com/kevmoo/slide_puzzle) <!--stargazers:kevmoo/slide_puzzle--> - Classic slide (15) puzzle by [Kevin Moore](https://github.com/kevmoo)
 
 ## Utilities
 
