@@ -108,7 +108,8 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Udacity](https://www.udacity.com/course/build-native-mobile-apps-with-flutter--ud905) - Build Native Mobile Apps by Google.
 - [VoidRealms](https://www.youtube.com/playlist?list=PLUbFnGajtZlX9ubiLzYz_cw92esraiIBi) <!--youtube:list/PLUbFnGajtZlX9ubiLzYz_cw92esraiIBi--> - Video tutorials, from basic to advanced
 - [Coding With Flutter](https://www.youtube.com/watch?v=u_Lyx8KJWpg&list=PLNnAcB93JKV9iZ2cwk9MEx3_JG8BRikMP) <!--youtube:list/PLNnAcB93JKV9iZ2cwk9MEx3_JG8BRikMP--> - Video tutorials and live-coding examples by [Andrea Bizzotto](https://medium.com/@biz84).
-- [Flutter Crash Course](https://fluttercrashcourse.com) - A free video course by [Nick Manning](https://twitter.com/seenickcode).
+- [Flutter Crash Course](https://fluttercrashcourse.com) - Free video course by [Nick Manning](https://twitter.com/seenickcode).
+- [Boring Show](https://www.youtube.com/results?search_query=%23BoringShow) - Exploration with the Flutter Team.
 
 
 ## Components
@@ -218,6 +219,8 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Usage](https://github.com/dart-lang/usage) <!--stargazers:dart-lang/usage--> - Google Analytics wrapper for command-line, web, and Flutter apps
 - [Firebase Analytics](https://github.com/flutter/plugins/tree/master/packages/firebase_analytics) - Connect to Firebase Analytics API
 - [Segment.com Analytics](https://github.com/FaisalAbid/segment-analytics-flutter) <!--stargazers:FaisalAbid/segment-analytics-flutter--> - Make your Segment.com analytics a breeze! by [Faisal Abid](https://twitter.com/FaisalAbid)
+- [Pure Mixpanel](https://github.com/seenickcode/pure_mixpanel) <!--stargazers:seenickcode/pure_mixpanel--> - Analytics for the popular [Mixpanel.com](https://mixpanel.com) [Nick Manning](https://twitter.com/seenickcode)
+
 
 ### Build automation
 
@@ -281,6 +284,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Book](https://github.com/putraxor/flutter-book-app) <!--stargazers:putraxor/flutter-book-app--> - Bookshelf by [Ardiansyah Putra](https://github.com/putraxor)
 - [The Gorgeous Login](https://github.com/huextrat/TheGorgeousLogin) <!--stargazers:huextrat/TheGorgeousLogin--> - Design and smooth login template by [Hugo Extrat](https://github.com/huextrat)
 - [Liquid Pay Payment App](https://github.com/longhoang2984/flutter_payment_app_ui) <!--stargazers:longhoang2984/flutter_payment_app_ui--> - Liquid Pay App Concept by [Long Hoang](https://github.com/longhoang2984)
+- [DrawApp](https://github.com/SnakeyHips/drawapp) <!--stargazers:SnakeyHips/drawapp--> - Sample Drawing App to demonstrate how to allow user to draw onto canvas with color picker and brush thickness slider by [Jake Gough](https://github.com/SnakeyHips)
 
 ## Plugins
 
