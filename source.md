@@ -385,6 +385,10 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 - [Cache Manager](https://github.com/renefloor/flutter_cache_manager) <!--stargazers:renefloor/flutter_cache_manager--> - Generic cache manager by [Rene Floor](https://github.com/renefloor)
 
+### Testing
+
+- [Ozzie](https://github.com/jorgecoca/ozzie.flutter) <!--stargazers:jorgecoca/ozzie.flutter--> - Ozzie will take an screenshot during integration tests whenever you need by [Jorge Coca](https://github.com/jorgecoca)
+
 ## Open Source Apps
 
 ### Premium
@@ -456,13 +460,9 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Meetup Rennes](https://www.meetup.com/fr-FR/Flutter-Rennes)
 
 
-### 🇷🇺 Russia
+### 🇷🇺
 
 - [Telegram](https://t.me/rudart) - Russian speaking Dart & Flutter community.
-
-### 🇺🇸 United States
-
-- [Chicago Flutter Meetup](https://www.meetup.com/Flutter-Chicago/)
 
 ## Books
 
