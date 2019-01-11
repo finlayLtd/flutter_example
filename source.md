@@ -230,13 +230,11 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 ### Build automation
 
-
-- [Travis CI for Flutter](https://github.com/yjbanov/flutter_travis_sample) [38⭐] - Continuous integration by [Yegor Jbanov](https://twitter.com/yegorjbanov).
-- [Test on Travis](https://medium.com/@yegorj/test-flutter-apps-on-travis-3fd5142ecd8c) [370 claps👏] - Widget testing framework by [Yegor Jbanov](https://twitter.com/yegorjbanov).
-- [Bitrise for Flutter](https://go.bitrise.io/flutter-ci) - Free Flutter ci (continuous integration, test and distribution automation for solo devs, teams and enterprises).
-- [Building Apks/Ipas on Travis](https://medium.com/@yegorj/building-flutter-apks-and-ipas-on-travis-98d84d8e9b4) [241 claps👏] - Automated build for Android and IOS by [Yegor Jbanov](https://twitter.com/yegorjbanov).
-- [Flutter step in Go](https://medium.com/@karol.wrotniak/how-to-create-bitrise-step-in-go-flutter-example-668cf4db1fd2) [62 claps👏] - Create Bitrise Step in Go by [Karol Wrótniak](https://medium.com/@karol.wrotniak).
-- [Code Magic](https://codemagic.io/) - Automate the entire flow, build and distribution by (NeverCode)[https://nevercode.io/].
+- [Travis CI for Flutter](https://github.com/yjbanov/flutter_travis_sample) <!--stargazers:yjbanov/flutter_travis_sample--> - Continuous integration by [Yegor Jbanov](https://twitter.com/yegorjbanov)
+- [Test on Travis](https://medium.com/@yegorj/test-flutter-apps-on-travis-3fd5142ecd8c) <!--claps:@yegorj/test-flutter-apps-on-travis-3fd5142ecd8c--> - Widget testing framework by [Yegor Jbanov](https://twitter.com/yegorjbanov)
+- [Building Apks/Ipas on Travis](https://medium.com/@yegorj/building-flutter-apks-and-ipas-on-travis-98d84d8e9b4) <!--claps:@yegorj/building-flutter-apks-and-ipas-on-travis-98d84d8e9b4--> - Automated build for Android and IOS by [Yegor Jbanov](https://twitter.com/yegorjbanov)
+- [BitRise](https://medium.com/@karol.wrotniak/how-to-create-bitrise-step-in-go-flutter-example-668cf4db1fd2) <!--claps:@karol.wrotniak/how-to-create-bitrise-step-in-go-flutter-example-668cf4db1fd2--> - Create Bitrise Step in Go by [Karol Wrótniak](https://medium.com/@karol.wrotniak)
+- [Code Magic](https://codemagic.io/) - Automate the entire flow, build and distribution by (NeverCode)[https://nevercode.io/]
 
 ### Styling
 
@@ -400,6 +398,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 ### Top
 
 - [Flutter Team Samples](https://github.com/flutter/samples) <!--stargazers:flutter/samples--> - Collection of examples (including maps, json, Material and Cupertino) by the [Flutter team](https://github.com/orgs/flutter/people)
+- [Flutter-common-widgets-app](https://github.com/alibaba/flutter-common-widgets-app) <!--stargazers:alibaba/flutter-common-widgets-app--> - A collection of various official components (demos) to help developers learn flutter quickly. Provided by [ Alibaba Auction Frontend Team](https://github.com/alibaba-paimai-frontend)
 - [Meme Chat](https://github.com/efortuna/memechat) <!--stargazers:efortuna/memechat--> - Chat app on Flutter, using Firebase, Google Sign In, and device camera integration by a team of Googlers.
 - [Flitter](https://github.com/dart-flitter/flitter) <!--stargazers:dart-flitter/flitter--> - Glitter app by [Hadrien Lejard](https://twitter.com/HadrienLejard) and [Kevin Segaud](https://twitter.com/kevin_segaud). It uses Redux and Jaguar.
 - [Lime](https://github.com/fablue/lime-flutter) <!--stargazers:fablue/lime-flutter--> - Lime social network by Sebastian Sellmair
