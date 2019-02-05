@@ -11,6 +11,11 @@
   <a href="https://github.com/sindresorhus/awesome">
     <img alt="Awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" />
   </a>
+  <a href="https://saythanks.io/to/Solido" target="_blank">
+    <img alt="Thanks" src="https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg" />
+  </a>
+  
+  
 </p>
 
 <a href="https://flutter.io/">Flutter</a> is a mobile app SDK for building high-performance, high-fidelity, apps for iOS and Android, from a single codebase.
@@ -57,6 +62,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 ### Introduction
 
 - [Google IO 2018](https://medium.com/flutter-io/building-beautiful-flexible-user-interfaces-with-flutter-material-theming-and-official-material-13ae9279ef19) <!--claps:flutter-io/building-beautiful-flexible-user-interfaces-with-flutter-material-theming-and-official-material-13ae9279ef19--> - Building beautiful, flexible user interfaces
+- [Presentation](https://speakerdeck.com/hjjunior/why-i-chose-flutter) - by [Helio S. Junior](https://github.com/hjJunior)
 
 ### Websites / Blogs
 
@@ -92,7 +98,8 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Schemas](https://www.didierboelens.com/2018/06/widget---state---context---inheritedwidget/) - Widget, State, Context and InheritedWidget explanations by [Didier Boelens](https://didierboelens.com)
 - [Rendering Engine Tutorial](https://medium.com/saugo360/flutters-rendering-engine-a-tutorial-part-1-e9eff68b825d) <!--claps:saugo360/flutters-rendering-engine-a-tutorial-part-1-e9eff68b825d--> - Flutter's Rendering Engine: A Tutorial by [AbdulRahman AlHamali](https://github.com/AbdulRahmanAlHamali/)
 - [Inherited Widget](https://medium.com/@chemamolins/is-flutters-inheritedwidget-a-good-fit-to-hold-app-state-2ec5b33d023e) - Flutter’s InheritedWidget to hold app state by [Chema Molins](https://github.com/jmolins)
-- [Flutter: from Mobile to Desktop](https://medium.com/flutter-community/flutter-from-mobile-to-desktop-93635e8de64e) - Building applications for smartphones and desktops by [Marcelo Henrique Neppel](https://neppel.com.br)
+- [From Mobile to Desktop](https://medium.com/flutter-community/flutter-from-mobile-to-desktop-93635e8de64e) - Building applications for smartphones and desktops by [Marcelo Henrique Neppel](https://neppel.com.br)
+- [Accessibility widgets](https://medium.com/flutter-community/a-deep-dive-into-flutters-accessibility-widgets-eb0ef9455bc) <!--claps:lutter-community/a-deep-dive-into-flutters-accessibility-widgets-eb0ef9455bc--> - Deep dive information about all aspects of accessibility by [Muhammed Salih Güler](https://twitter.com/salihgueler)
 
 ### Howtos
 
@@ -294,6 +301,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [The Gorgeous Login](https://github.com/huextrat/TheGorgeousLogin) <!--stargazers:huextrat/TheGorgeousLogin--> - Design and smooth login template by [Hugo Extrat](https://github.com/huextrat)
 - [Liquid Pay Payment App](https://github.com/longhoang2984/flutter_payment_app_ui) <!--stargazers:longhoang2984/flutter_payment_app_ui--> - Liquid Pay App Concept by [Long Hoang](https://github.com/longhoang2984)
 - [DrawApp](https://github.com/SnakeyHips/drawapp) <!--stargazers:SnakeyHips/drawapp--> - Sample Drawing App to demonstrate how to allow user to draw onto canvas with color picker and brush thickness slider by [Jake Gough](https://github.com/SnakeyHips)
+- [Starter Kit](https://github.com/KingWu/flutter_starter_kit) <!--stargazers:KingWu/flutter_starter_kit--> - App Store implementation to learn Bloc, RxDart, Sqflite, Fluro and Dio. by [King Wu](https://github.com/KingWu)
 
 ### Machine Learning
 
@@ -400,6 +408,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 ### Top
 
 - [Flutter Team Samples](https://github.com/flutter/samples) <!--stargazers:flutter/samples--> - Collection of examples (including maps, json, Material and Cupertino) by the [Flutter team](https://github.com/orgs/flutter/people)
+- [Flutter Common Widgets](https://github.com/alibaba/flutter-common-widgets-app) <!--stargazers:alibaba/flutter-common-widgets-app--> - Collection of official widgets demos & docs in chinese to help developers learn quickly by [Alibaba Auction Frontend Team](https://github.com/alibaba-paimai-frontend)
 - [Meme Chat](https://github.com/efortuna/memechat) <!--stargazers:efortuna/memechat--> - Chat app on Flutter, using Firebase, Google Sign In, and device camera integration by a team of Googlers.
 - [Flitter](https://github.com/dart-flitter/flitter) <!--stargazers:dart-flitter/flitter--> - Glitter app by [Hadrien Lejard](https://twitter.com/HadrienLejard) and [Kevin Segaud](https://twitter.com/kevin_segaud). It uses Redux and Jaguar.
 - [Lime](https://github.com/fablue/lime-flutter) <!--stargazers:fablue/lime-flutter--> - Lime social network by Sebastian Sellmair
@@ -418,10 +427,15 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Trinity Orientation @ Univ Toronto](https://github.com/matthewtory/trinity-orientation-2018) <!--stargazers:matthewtory/trinity-orientation-2018--> - Orientation week at Trinity College, U of T by [Matthew Tory](https://github.com/matthewtory)
 - [Transform Widget](https://github.com/DrPaulT/flutter-engine-test) - Image widgets as 3D game engine sprites by [Paul Thomas](https://github.com/DrPaulT)
 - [Deer](https://github.com/aleksanderwozniak/deer) <!--stargazers:aleksanderwozniak/deer--> - Minimalist Todo Planner built using BLoC pattern by [Aleksander Woźniak](https://github.com/aleksanderwozniak)
+- [TailorMade](https://github.com/jogboms/tailor_made) <!--stargazers:jogboms/tailor_made--> - Managing a Fashion designer's daily routine using a mixture of ReBLoC w/ Firebase Cloud Store & Functions by [Jeremiah Ogbomo](https://twitter.com/jogboms)
 
 ### Block / Angular / PWA
 
 - [InKino](https://github.com/roughike/inKino) <!--stargazers:roughike/inKino--> - Movie app with flutter_redux, animations and unit tests by [Iiro Krankka](https://github.com/roughike)
+
+### State Management
+
+ - [MobX](https://github.com/mobxjs/mobx.dart) <!--stargazers:mobxjs/mobx.dart--> - Supercharge the state-management in your apps with Transparent Functional Reactive Programming (TFRP). Port of MobX from the Js/React land.
 
 ### Games
 
@@ -443,6 +457,8 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 - [Desktop Embedding](https://github.com/google/flutter-desktop-embedding) <!--stargazers:google/flutter-desktop-embedding--> - Desktop implementations of the Flutter embedding API by Google
 - [Golang Desktop Embedder](https://github.com/Drakirus/go-flutter-desktop-embedder) <!--stargazers:Drakirus/go-flutter-desktop-embedder--> - Golang embedder for desktop by [Pierre Champion](https://github.com/Drakirus)
+- [Rust Desktop Embedder](https://github.com/gliheng/flutter-rs) <!--stargazers:gliheng/flutter-rs--> - Rust embedder for desktop by [juju](https://github.com/gliheng).
+
 
 ## Books
 
@@ -458,19 +474,38 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 ## Community
 
+### Presentation material
+
+- [Logo](https://drive.google.com/drive/folders/1GDGdQ0ghrxTNTx6aZLT41eV5sPZvV7bU) - Logo for stickers impressions
+
+### Communication
+
 - [Gitter](https://gitter.im/flutter/flutter) - Exchange channel   
 - [r/FlutterDev Subreddit](https://www.reddit.com/r/FlutterDev/) - Reddit community by [u/JaapVermeulen](https://www.reddit.com/user/JaapVermeulen)
 - [Dev Discord](https://discord.gg/N7Yshp4) - Discord server to discuss and get help by [Pritykin](https://twitter.com/AndrewPritykin)
 - [Flutter Community](https://github.com/fluttercommunity) - Central place for community made packages
 - [OpenFlutter](https://github.com/OpenFlutter) - Make it easier 让Flutter更简单
 
+### 🇧🇷 Brazil
+
+- [Flutter talk](https://github.com/JHBitencourt/flutter_talk) de introdução ao Flutter em português by [Julio Bitencourt](http://juliobitencourt.com)
+- Slack [Flutter Brasil](https://flutterbr.slack.com)
+
+### 🇩🇰 Denmark
+
+- Meetup [Denmark](https://www.meetup.com/Flutter-Developers-Denmark/)
+
 ### 🇫🇷France
 
+- Meetup [Bordeaux](https://www.meetup.com/fr-FR/Flutter-Bordeaux) - [Paris](https://www.meetup.com/fr-FR/Flutter-Paris) - [Rennes](https://www.meetup.com/fr-FR/Flutter-Rennes)
 - [Twitter](https://twitter.com/FlutterDev) - Toutes les news et annonces dans votre flux.
 - [Slack](https://slack.flutter-france.fr) - Slack dédié à la communauté française.
 
-- Meetup [Bordeaux](https://www.meetup.com/fr-FR/Flutter-Bordeaux) - [Paris](https://www.meetup.com/fr-FR/Flutter-Paris) - [Rennes](https://www.meetup.com/fr-FR/Flutter-Rennes)
+### 🇩🇪 Germany
 
+- Meetup [Berlin](https://www.meetup.com/flutter-berlin/) - [Düsseldorf](https://www.meetup.com/flutter-school/) - [Karlsruhe](https://www.meetup.com/Karlsruhe-Flutter-Meetup/)
+- Twitter [Flutter Berlin](https://twitter.com/flutterBerlin) - [Düsseldorf](https://twitter.com/flutter_school)
+- Slack [Flutter Berlin](https://flutterberlin.slack.com/join/shared_invite/enQtMzQ1NDI0NjU4Mjc5LWVjOTg0NmUxZmU4YzZjZjFkMWNjYWYyYTI5NjMyZWE5MDZjNDM0YzgyNWQyM2EzM2E0NDE4ZmQyMzQyMzRlNjI)
 
 ### 🇷🇺 Russia
 
@@ -479,6 +514,8 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 ### 🇺🇸 United States
 
 - Meetup [Chicago](https://www.meetup.com/Flutter-Chicago/)
+
+
 
 ## License
 
