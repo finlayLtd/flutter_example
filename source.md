@@ -219,7 +219,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Instagram](https://hackernoon.com/instagram-authentication-with-flutter-df6424d2d56c) - Instagram auth by [Wilfried Mbouenda Mbogne](http://developer-journey.com/)
 - [Firebase Phone Auth](https://medium.com/@gildaswise/flutter-adding-sign-in-with-google-and-phone-authentication-to-your-app-69f681518f9b) <!--claps:@gildaswise/flutter-adding-sign-in-with-google-and-phone-authentication-to-your-app-69f681518f9b--> - Phone number auth via SMS by [Gildásio Filho](https://github.com/gildaswise)
 - [SimpleAuth](https://github.com/Clancey/simple_auth) <!--stargazers:Clancey/simple_auth--> - Azure Active Directory, Amazon, Dropbox, Facebook, Github, Google, Instagram, Linked In, Microsoft Live Connect, Github, OAuth, Basic Auth by [James Clancey](https://github.com/Clancey)
-[Flutter AppAuth](https://github.com/MaikuB/flutter_appauth) <!--stargazers:MaikuB/flutter_appauth-> - Plugin for displaying local notifications by [Michael Bui](https://github.com/MaikuB)
+- [Flutter AppAuth](https://github.com/MaikuB/flutter_appauth) <!--stargazers:MaikuB/flutter_appauth-> - Plugin for displaying local notifications by [Michael Bui](https://github.com/MaikuB)
 
 ### Text & Rich Content
 
@@ -332,7 +332,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [AppAvailability](https://github.com/pichillilorenzo/flutter_appavailability) <!--stargazers:pichillilorenzo/flutter_appavailability--> - List, launch and check installed apps by [Lorenzo Pichilli](https://github.com/pichillilorenzo)
 - [Aeyrium Sensor](https://github.com/aeyrium/aeyrium-sensor) <!--stargazers:aeyrium/aeyrium-sensor--> - A plugin which provide easy access to the Pitch and Roll on Android and iOS devices by [Diego Velásquez](https://github.com/aeyrium).
 - [File Picker](https://github.com/miguelpruivo/plugins_flutter_file_picker) <!--stargazers:miguelpruivo/plugins_flutter_file_picker--> -  Native file explorer to load absolute file path by [Miguel Ruivo](https://github.com/miguelpruivo)
-- [Catcher](https://github.com/jhomlala/catcher) <!--stargazers:jhomlala/catcher--> - A plugin which automatically catches errors and handles them by [Jakub Homlala](https://github.com/jhomlala)
+
 #### Scanner
 
 - [QR Code Reader](https://github.com/villela/flutter_qrcode_reader) <!--stargazers:villela/flutter_qrcode_reader--> - QR Code reader plugin by [Matheus Villela](https://github.com/villela)
