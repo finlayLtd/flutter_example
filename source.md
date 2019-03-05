@@ -154,7 +154,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 #### UI Helpers
 
-- [Reorderables](https://github.com/hanshengchiu/reorderables) <!--stargazers:hanshengchiu/reorderables--> - Drag and drop Table rows, Row/Column elements, Wrap(Grid) elements, and SliverList elements by [Hansheng Chiu](https://github.com/hanshengchiu).
+- [Reorderables](https://github.com/hanshengchiu/reorderables) <!--stargazers:hanshengchiu/reorderables--> - Drag and drop Table rows, Row/Column elements, and Wrap(Grid) elements by [Hansheng Chiu](https://github.com/hanshengchiu).
 - [Liquid Pull To Refresh](https://github.com/aagarwal1012/Liquid-Pull-To-Refresh) <!--stargazers:aagarwal1012/Liquid-Pull-To-Refresh--> - A beautiful and custom refresh indicator by [Ayush Agarwal](https://github.com/aagarwal1012/).
 - [Infinite Listview](https://github.com/fluttercommunity/flutter_infinite_listview) <!--stargazers:fluttercommunity/flutter_infinite_listview--> - Infinite scroll in both directions by [Simon Lightfoot](https://github.com/slightfoot)
 - [Offline](https://github.com/jogboms/flutter_offline) <!--stargazers:jogboms/flutter_offline--> - Tidy utility to handle offline/online connectivity by [Jeremiah Ogbomo](https://twitter.com/jogboms).
@@ -479,6 +479,10 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Redux Starter/Code Generator](https://github.com/hillelcoren/flutter-redux-starter) <!--stargazers:hillelcoren/flutter-redux-starter--> - Starter project and code generator with Redux support by [Hillel Coren](https://twitter.com/hillelcoren)
 - [FlutterIcon](http://fluttericon.com/) <!--stargazers:ilikerobots/polyicon--> - Icon set generator by [Mike Hoolehan](https://github.com/ilikerobots)
 - [IntelliJ Redux](https://plugins.jetbrains.com/plugin/11277-redux) - Navigate Redux app by [Hillel Coren](https://twitter.com/hillelcoren)
+
+### VSCode
+
+- [Awesome Snippets](https://marketplace.visualstudio.com/items?itemName=Nash.awesome-flutter-snippets) - Collection of commonly used classes and methods by [Nash](https://twitter.com/Nash0x7E2)
 
 ### Desktop
 
