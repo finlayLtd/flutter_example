@@ -154,7 +154,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 #### UI Helpers
 
-- [Reorderables](https://github.com/hanshengchiu/reorderables) <!--stargazers:hanshengchiu/reorderables--> - Drag and drop Table rows, Row/Column elements, and Wrap(Grid) elements by [Hansheng Chiu](https://github.com/hanshengchiu).
+- [Reorderables](https://github.com/hanshengchiu/reorderables) <!--stargazers:hanshengchiu/reorderables--> - Drag&Drop Table, Row, Column, Wrap(Grid) and SliverList elements by [Hansheng Chiu](https://github.com/hanshengchiu).
 - [Liquid Pull To Refresh](https://github.com/aagarwal1012/Liquid-Pull-To-Refresh) <!--stargazers:aagarwal1012/Liquid-Pull-To-Refresh--> - A beautiful and custom refresh indicator by [Ayush Agarwal](https://github.com/aagarwal1012/).
 - [Infinite Listview](https://github.com/fluttercommunity/flutter_infinite_listview) <!--stargazers:fluttercommunity/flutter_infinite_listview--> - Infinite scroll in both directions by [Simon Lightfoot](https://github.com/slightfoot)
 - [Offline](https://github.com/jogboms/flutter_offline) <!--stargazers:jogboms/flutter_offline--> - Tidy utility to handle offline/online connectivity by [Jeremiah Ogbomo](https://twitter.com/jogboms).
@@ -480,14 +480,10 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [FlutterIcon](http://fluttericon.com/) <!--stargazers:ilikerobots/polyicon--> - Icon set generator by [Mike Hoolehan](https://github.com/ilikerobots)
 - [IntelliJ Redux](https://plugins.jetbrains.com/plugin/11277-redux) - Navigate Redux app by [Hillel Coren](https://twitter.com/hillelcoren)
 
-### VSCode
-
-- [Awesome Snippets](https://marketplace.visualstudio.com/items?itemName=Nash.awesome-flutter-snippets) - Collection of commonly used classes and methods by [Nash](https://twitter.com/Nash0x7E2)
-
 ### Desktop
 
 - [Desktop Embedding](https://github.com/google/flutter-desktop-embedding) <!--stargazers:google/flutter-desktop-embedding--> - Desktop implementations of the Flutter embedding API by Google
-- [Golang Desktop Embedder](https://github.com/go-flutter-desktop/go-flutter) <!--stargazers:go-flutter-desktop/go-flutter--> - Golang embedder for desktop by [Pierre Champion](https://github.com/Drakirus)
+- [Golang Desktop Embedder](https://github.com/Drakirus/go-flutter-desktop-embedder) <!--stargazers:Drakirus/go-flutter-desktop-embedder--> - Golang embedder for desktop by [Pierre Champion](https://github.com/Drakirus)
 - [Rust Desktop Embedder](https://github.com/gliheng/flutter-rs) <!--stargazers:gliheng/flutter-rs--> - Rust embedder for desktop by [juju](https://github.com/gliheng).
 
 
