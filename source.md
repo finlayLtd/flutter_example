@@ -480,10 +480,14 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [FlutterIcon](http://fluttericon.com/) <!--stargazers:ilikerobots/polyicon--> - Icon set generator by [Mike Hoolehan](https://github.com/ilikerobots)
 - [IntelliJ Redux](https://plugins.jetbrains.com/plugin/11277-redux) - Navigate Redux app by [Hillel Coren](https://twitter.com/hillelcoren)
 
+### VSCode
+
+- [Awesome Snippets](https://marketplace.visualstudio.com/items?itemName=Nash.awesome-flutter-snippets) - Collection of commonly used classes and methods by [Nash](https://twitter.com/Nash0x7E2)
+
 ### Desktop
 
 - [Desktop Embedding](https://github.com/google/flutter-desktop-embedding) <!--stargazers:google/flutter-desktop-embedding--> - Desktop implementations of the Flutter embedding API by Google
-- [Golang Desktop Embedder](https://github.com/Drakirus/go-flutter-desktop-embedder) <!--stargazers:Drakirus/go-flutter-desktop-embedder--> - Golang embedder for desktop by [Pierre Champion](https://github.com/Drakirus)
+- [Golang Desktop Embedder](https://github.com/go-flutter-desktop/go-flutter) <!--stargazers:go-flutter-desktop/go-flutter--> - Golang embedder for desktop by [Pierre Champion](https://github.com/Drakirus)
 - [Rust Desktop Embedder](https://github.com/gliheng/flutter-rs) <!--stargazers:gliheng/flutter-rs--> - Rust embedder for desktop by [juju](https://github.com/gliheng).
 
 
