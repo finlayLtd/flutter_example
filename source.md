@@ -151,7 +151,6 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Folding Cell](https://github.com/faob-dev/folding_cell) <!--stargazers:faob-dev/folding_cell--> - Fold your widget by [Faob](https://github.com/faob-dev)
 - [Hidden Drawer Menu](https://github.com/RafaelBarbosatec/hidden_drawer_menu) <!--stargazers:RafaelBarbosatec/hidden_drawer_menu--> - Beautiful drawer mode menu feature with perspective animations by [Rafael Almeida Barbosa](https://github.com/RafaelBarbosatec).
 - [Fancy Bottom Navigation](https://github.com/tunitowen/fancy_bottom_navigation) <!--stargazers:tunitowen/fancy_bottom_navigation--> - Animated bottom navigation by [Tony Owen](https://github.com/tunitowen).
-- [Bottom Navy Bar](https://github.com/pedromassango/bottom_navy_bar) <!--stargazers:pedromassango/bottom_navy_bar--> - A beautiful and colorful animated bottom navigation bar by [Pedro Massango](https://github.com/pedromassango).
 
 #### UI Helpers
 
@@ -378,7 +377,6 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 ### Log / Tracing
 
 - [Catcher](https://github.com/jhomlala/catcher) <!--stargazers:jhomlala/catcher--> - Automatically catches errors and handles them by [Jakub Homlala](https://github.com/jhomlala)
-- [Flipperkit](https://github.com/blankapp/flutter_flipperkit) [50⭐] - Use Flipper debug your Flutter apps running in an emulator/simulator or connected physical development devices by [JianyingLi](https://github.com/lijy91).
 
 ## Frameworks
 
@@ -475,7 +473,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Tetris](https://github.com/boyan01/flutter-tetris) - Tetris game by [YangBin](https://github.com/boyan01)
 
 ## Utilities
-
+- [Flutter Debugger](https://github.com/blankapp/flutter-debugger) - is a standalone app for debugging Flutter apps, Based on [Flipper](https://github.com/facebook/flipper) and provide more functionally. by [JianyingLi](https://github.com/lijy91)
 - [Mutisya 2](https://flutterstudio.app/) - Online Flutter Studio by [Paul Mutisya](https://medium.com/@pmutisya)
 - [Launcher Icons](https://github.com/franzsilva/flutter_launcher_icons) - Generate your launcher icons easily by [Mark O'Sullivan](https://github.com/MarkOSullivan94) and [Franz Silva](https://github.com/franzsilva)
 - [Redux Starter/Code Generator](https://github.com/hillelcoren/flutter-redux-starter) <!--stargazers:hillelcoren/flutter-redux-starter--> - Starter project and code generator with Redux support by [Hillel Coren](https://twitter.com/hillelcoren)
