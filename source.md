@@ -52,6 +52,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Plugins](#plugins)
 - [Frameworks](#frameworks)
 - [Open Source Apps](#open-source-apps)
+- [Web](#web)
 - [Utilities](#utilities)
 - [Community](#community)
 - [Bonus](#bonus)
@@ -108,7 +109,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 ## Videos
 
-- [Boring Show](https://www.youtube.com/results?search_query=%23BoringShow) - Exploration with the Flutter Team.
+- [Boring Show](https://www.youtube.com/watch?v=CPmN4-i9zC8&list=PLOU2XLYxmsIK0r_D-zWcmJ1plIcDNnRkK) - Exploration with the Flutter Team.
 - [Tensor Programming](https://www.youtube.com/watch?v=WwhyaqNtNQY&list=PLJbE2Yu2zumDqr_-hqpAN0nIr6m14TAsd) <!--youtube:list/PLJbE2Yu2zumDqr_-hqpAN0nIr6m14TAsd--> - Very rich content by [Tensor Programming](http://tensor-programming.com/)
 - [Fluttery](https://www.youtube.com/channel/UCtWyVkPpb8An90SNDTNF0Pg) - High-production value and in-depth challenges.
 - [Mtechviral](https://www.youtube.com/watch?v=qWL1lGchpRA&list=PLR2qQy0Zxs_UdqAcaipPR3CG1Ly57UlhV) <!--youtube:list/PLR2qQy0Zxs_UdqAcaipPR3CG1Ly57UlhV--> - [Hindi/English] Mtechviral Series By [Pawan Kumar](https://github.com/iampawan)
@@ -500,6 +501,11 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Crush](https://github.com/boeledi/flutter_crush) <!--stargazers:boeledi/flutter_crush--> - How to build a Math-3 game, like Candy Crush, Bejeweled by [Didier Boelens](https://didierboelens.com)
 - [Slide Puzzle](https://github.com/kevmoo/slide_puzzle) <!--stargazers:kevmoo/slide_puzzle--> - Classic slide (15) puzzle by [Kevin Moore](https://github.com/kevmoo)
 - [Tetris](https://github.com/boyan01/flutter-tetris) - Tetris game by [YangBin](https://github.com/boyan01)
+
+## Web
+
+- [Peanut](https://github.com/kevmoo/peanut.dart) <!--stargazers:kevmoo/peanut.dart--> - Deploy your web app to GitHub pages by [Kevin Moore](https://github.com/kevmoo)
+
 
 ## Utilities
 
