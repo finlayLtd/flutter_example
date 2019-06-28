@@ -565,6 +565,11 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Flutter Community](https://github.com/fluttercommunity) - Central place for community made packages
 - [OpenFlutter](https://github.com/OpenFlutter) - Make it easier 让 Flutter 更简单
 
+### 🇦🇴 Angola
+- Facebook [Group](https://facebook.com/groups/556888664681938)
+- Facebook [Page](https://facebook.com/Flutter-Angola-2076395262380886/)
+- Twitter [Page](https://twitter.com/AngolaFlutter)
+
 ### 🇧🇷 Brazil
 
 - [Flutter talk](https://github.com/JHBitencourt/flutter_talk) de introdução ao Flutter em português by [Julio Bitencourt](http://juliobitencourt.com)
@@ -606,9 +611,6 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - Slack [DevCenter Square](https://devcenter-square-slack.herokuapp.com) - Square Team's #flutter community channel
 - [WhatsApp](https://chat.whatsapp.com/FR2G7r33KjKAVQrB3AKp0H) - Dart & Flutter community
 - Twitter [FlutterLagos](https://twitter.com/FlutterLagos) - Dart & Flutter community (Lagos)
-
-### 🇵🇹 Portugal
-- [Meetup Flutter Portugal](https://www.meetup.com/flutterportugal/) Portuguese speaking Flutter Community
 
 ### 🇷🇺 Russia
 
