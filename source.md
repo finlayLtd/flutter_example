@@ -505,7 +505,6 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Spacex-Go](https://github.com/jesusrp98/spacex-go) <!--stargazers:jesusrp98/spacex-go--> - Simple yet powerful, open-source SpaceX launch tracker. [jesusrp98](https://twitter.com/jesusrp98).
 - [Superhero Interaction](https://github.com/pinkeshdarji/SuperHeroInteraction) <!--stargazers:pinkeshdarji/SuperHeroInteraction--> - Cool Superhero interaction animation by [Pinkesh Darji](https://github.com/pinkeshdarji)
 - [Reply](https://github.com/flschweiger/reply) <!--stargazers:flschweiger/reply--> - 'Reply' Material Design case study by [Frederik Schweiger](https://github.com/flschweiger)
-- [Enigma](https://github.com/AmitJoki/Enigma) - A full-fledged privacy-centric one-to-one chat app with end-to-end encryption by [AmitJoki](https://github.com/AmitJoki)
 
 ### Games
 
@@ -600,13 +599,16 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 ### 🇯🇵 Japan
 
-- Meetup - [Tokyo Flutter Developers](https://www.meetup.com/Tokyo-Flutter/)
+- Meetup [Tokyo Flutter Developers](https://www.meetup.com/Tokyo-Flutter/)
 
 ### 🇳🇬Nigeria
 
 - Slack [DevCenter Square](https://devcenter-square-slack.herokuapp.com) - Square Team's #flutter community channel
 - [WhatsApp](https://chat.whatsapp.com/FR2G7r33KjKAVQrB3AKp0H) - Dart & Flutter community
 - Twitter [FlutterLagos](https://twitter.com/FlutterLagos) - Dart & Flutter community (Lagos)
+
+### 🇵🇹 Portugal
+- [Meetup](https://www.meetup.com/flutterportugal) - Portuguese speaking Flutter Community
 
 ### 🇷🇺 Russia
 
