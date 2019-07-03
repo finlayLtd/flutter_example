@@ -17,8 +17,8 @@
   <a href="https://saythanks.io/to/Solido" target="_blank">
     <img alt="Thanks" src="https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg" />
   </a>
-
-
+  
+  
 </p>
 
 <a href="https://flutter.dev/">Flutter</a> is a mobile app SDK for building high-performance, high-fidelity, apps for iOS and Android, from a single codebase.
@@ -337,7 +337,6 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Starter Kit](https://github.com/KingWu/flutter_starter_kit) <!--stargazers:KingWu/flutter_starter_kit--> - App Store implementation to learn Bloc, RxDart, Sqflite, Fluro and Dio. by [King Wu](https://github.com/KingWu)
 - [Feather](https://github.com/jhomlala/feather) <!--stargazers:jhomlala/feather--> - Beautiful weather application. Application includes RxDart, Dio, BLoC, i18n, unit and widget tests. by [Jakub Homlala](https://github.com/jhomlala)
 - [Clone UI Challenges](https://github.com/javico2609/flutter-challenges) <!--stargazers:javico2609/flutter-challenges--> - Collection of useful UIs clones by [Javier González](https://github.com/javico2609)
-- [FlutterFoodybite](https://github.com/JideGuru/FlutterFoodybite) <!--stargazers:JideGuru/FlutterFoodybite--> - A beautiful food app UI template by [JideGuru](https://github.com/JideGuru)
 
 ### Web
 
@@ -506,6 +505,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Spacex-Go](https://github.com/jesusrp98/spacex-go) <!--stargazers:jesusrp98/spacex-go--> - Simple yet powerful, open-source SpaceX launch tracker. [jesusrp98](https://twitter.com/jesusrp98).
 - [Superhero Interaction](https://github.com/pinkeshdarji/SuperHeroInteraction) <!--stargazers:pinkeshdarji/SuperHeroInteraction--> - Cool Superhero interaction animation by [Pinkesh Darji](https://github.com/pinkeshdarji)
 - [Reply](https://github.com/flschweiger/reply) <!--stargazers:flschweiger/reply--> - 'Reply' Material Design case study by [Frederik Schweiger](https://github.com/flschweiger)
+- [Enigma](https://github.com/AmitJoki/Enigma) - Privacy chat with end-to-end encryption by [AmitJoki](https://github.com/AmitJoki)
 
 ### Games
 
@@ -551,10 +551,6 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 - [Matrix2](https://github.com/bus710/matrix2) - Sense Hat's LED matrix control game by [bus710](https://github.com/bus710)
 
-## Jobs/Interview Questions
-
-- [Interview Questions](https://github.com/whatsupcoders/Flutter-Interview-Questions) - List of helpful questions you can use to interview potential candidates by [Whatsupcoders](https://github.com/whatsupcoders/Whatsupcoders-flutter)
-
 
 ## Community
 
@@ -569,29 +565,24 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Dev Discord](https://discord.gg/N7Yshp4) - Discord server to discuss and get help by [Pritykin](https://twitter.com/AndrewPritykin)
 - [Flutter Community](https://github.com/fluttercommunity) - Central place for community made packages
 - [OpenFlutter](https://github.com/OpenFlutter) - Make it easier 让 Flutter 更简单
-- [Flutter Events](https://flutterevents.com) - An open list of Flutter events by [@hillelcoren](https://twitter.com/hillelcoren)
 
-### 🇦🇴Angola
-- Facebook [Group](https://facebook.com/groups/556888664681938)
-- Facebook [Page](https://facebook.com/Flutter-Angola-2076395262380886/)
-- Twitter [Page](https://twitter.com/AngolaFlutter)
+### 🇧🇷 Brazil
 
-### 🇧🇷Brazil
 - [Flutter talk](https://github.com/JHBitencourt/flutter_talk) de introdução ao Flutter em português by [Julio Bitencourt](http://juliobitencourt.com)
 - Slack [Flutter Brasil](https://flutterbr.slack.com)
 - Medium [Flutter Comunidade BR](https://medium.com/flutter-comunidade-br)
 - Twitter [Flutter Comunidade BR](https://twitter.com/br_flutter)
 
-### 🇨🇦Canada
+### 🇨🇦 Canada
 
 - Meetup [Toronto](https://www.meetup.com/FlutterToronto)
 
-### 🇨🇮Côte d'Ivoire (Ivory Coast)
+### 🇨🇮 Côte d'Ivoire (Ivory Coast)
 
 - Facebook [Page](https://web.facebook.com/flutterci/)
 - Facebook [Group](https://web.facebook.com/groups/1725273507587759/)
 
-### 🇩🇰Denmark
+### 🇩🇰 Denmark
 
 - Meetup [Denmark](https://www.meetup.com/Flutter-Developers-Denmark/)
 
@@ -601,30 +592,27 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Twitter](https://twitter.com/FlutterDev) - Toutes les news et annonces dans votre flux.
 - [Slack](https://slack.flutter-france.fr) - Slack dédié à la communauté française.
 
-### 🇩🇪Germany
+### 🇩🇪 Germany
 
 - Meetup [Berlin](https://www.meetup.com/flutter-berlin/) - [Düsseldorf](https://www.meetup.com/flutter-school/) - [Karlsruhe](https://www.meetup.com/Karlsruhe-Flutter-Meetup/) - [Hamburg](https://www.meetup.com/Flutter-Hamburg/)
 - Twitter [Flutter Berlin](https://twitter.com/flutterBerlin) - [Düsseldorf](https://twitter.com/flutter_school)
 - Slack [Flutter Berlin](https://flutterberlin.slack.com/join/shared_invite/enQtMzQ1NDI0NjU4Mjc5LWVjOTg0NmUxZmU4YzZjZjFkMWNjYWYyYTI5NjMyZWE5MDZjNDM0YzgyNWQyM2EzM2E0NDE4ZmQyMzQyMzRlNjI)
 
-### 🇯🇵Japan
+### 🇯🇵 Japan
 
-- Meetup [Tokyo Flutter Developers](https://www.meetup.com/Tokyo-Flutter/)
+- Meetup - [Tokyo Flutter Developers](https://www.meetup.com/Tokyo-Flutter/)
 
-### 🇳🇬 Nigeria
+### 🇳🇬Nigeria
 
 - Slack [DevCenter Square](https://devcenter-square-slack.herokuapp.com) - Square Team's #flutter community channel
 - [WhatsApp](https://chat.whatsapp.com/FR2G7r33KjKAVQrB3AKp0H) - Dart & Flutter community
 - Twitter [FlutterLagos](https://twitter.com/FlutterLagos) - Dart & Flutter community (Lagos)
 
-### 🇵🇹Portugal
-- [Meetup](https://www.meetup.com/flutterportugal) - Portuguese speaking Flutter Community
-
-### 🇷🇺Russia
+### 🇷🇺 Russia
 
 - [Telegram](https://t.me/rudart) - Russian speaking Dart & Flutter community.
 
-### 🇱🇰Sri Lanka
+### 🇱🇰 Sri Lanka
 
 - [Gitter](https://gitter.im/Colombo-Flutter-Community) - The place where you can meet developers and discuss about projects.
 - [Slack](https://fluttercmb.slack.com/) - Flutter community Slack channel.
