@@ -142,7 +142,6 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Slide Container](https://pub.dev/packages/slide_container) Slide vertically and horizontally with a smooth dampened motion by [Quentin Le Guennec](https://github.com/quentinleguennec).
 - [Rubber Bottom Sheet](https://github.com/mcrovero/rubber) <!--stargazers:mcrovero/rubber--> - An elastic material bottom sheet by [Mattia Crovero](https://github.com/mcrovero).
 - [Direct Select](https://github.com/LanarsInc/direct-select-flutter) - Selection widget with an ethereal, full-screen modal popup by [Ivan Yatsouba](https://github.com/iyatsouba).
-- [Sticky Infinit List](https://github.com/TatsuUkraine/flutter_sticky_infinite_list) <!--stargazers:TatsuUkraine/flutter_sticky_infinite_list--> - Highly configurable multi directional infinite list with Sticky Headers by [TatsuUkraine](https://github.com/TatsuUkraine) 
 
 #### Drawers
 
@@ -404,6 +403,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 - [Sqflite](https://github.com/tekartik/sqflite) <!--stargazers:tekartik/sqflite--> - SQLite flutter plugin by [Alexandre Roux](https://www.linkedin.com/in/alextekartik/)
 - [MMKV](https://github.com/OpenFlutter/mmkv_flutter) <!--stargazers:OpenFlutter/mmkv_flutter--> - WeChat ultra fast & persistent key-value storage by [BigBug](https://github.com/yuyongmao)
+- [Hive](https://github.com/leisim/hive) <!--stargazers:leisim/hive--> - Lightweight and blazing fast key-value store written in pure Dart by [Simon Leier](https://github.com/leisim)
 
 ### Services
 
