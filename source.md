@@ -407,6 +407,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 - [Sqflite](https://github.com/tekartik/sqflite) <!--stargazers:tekartik/sqflite--> - SQLite flutter plugin by [Alexandre Roux](https://www.linkedin.com/in/alextekartik/)
 - [MMKV](https://github.com/OpenFlutter/mmkv_flutter) <!--stargazers:OpenFlutter/mmkv_flutter--> - WeChat ultra fast & persistent key-value storage by [BigBug](https://github.com/yuyongmao)
+- [Hive](https://github.com/leisim/hive) <!--stargazers:leisim/hive--> - Lightweight and blazing fast key-value store written in pure Dart by [Simon Leier](https://github.com/leisim)
 
 ### Services
 
@@ -512,6 +513,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Superhero Interaction](https://github.com/pinkeshdarji/SuperHeroInteraction) <!--stargazers:pinkeshdarji/SuperHeroInteraction--> - Cool Superhero interaction animation by [Pinkesh Darji](https://github.com/pinkeshdarji)
 - [Reply](https://github.com/flschweiger/reply) <!--stargazers:flschweiger/reply--> - 'Reply' Material Design case study by [Frederik Schweiger](https://github.com/flschweiger)
 - [Enigma](https://github.com/AmitJoki/Enigma) - Privacy chat with end-to-end encryption by [AmitJoki](https://github.com/AmitJoki)
+- [Chillify](https://github.com/KarimElghamry/chillify) - Fancy music app made with Provider and Bloc pattern by [Karim Elghamry](https://github.com/KarimElghamry)
 
 ### Games
 
