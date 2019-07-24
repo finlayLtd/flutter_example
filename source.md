@@ -248,8 +248,8 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Google Sign-In](https://github.com/flutter/plugins/tree/master/packages/google_sign_in) - Google OAuth
 - [Firebase Auth](https://github.com/flutter/plugins/tree/master/packages/firebase_auth) - Firebase OAuth
 - [Facebook Login](https://github.com/roughike/flutter_facebook_login) <!--stargazers:roughike/flutter_facebook_login--> - Authenticate with native Android & iOS Facebook login SDKs by [Iiro Krankka](https://github.com/roughike)
+- [Apple Sign-In](https://github.com/tomgilder/flutter_apple_sign_in) <!--stargazers:tomgilder/flutter_apple_sign_in--> - Apple sign in by [Tom Gilder](https://github.com/tomgilder)
 - [OAuth](https://github.com/hitherejoe/FlutterOAuth) <!--stargazers:hitherejoe/FlutterOAuth--> - Buffer, Strava, Unsplash, Github OAuth by [Joe Birch](http://www.hitherejoe.com)
-- [Instagram](https://hackernoon.com/instagram-authentication-with-flutter-df6424d2d56c) - Instagram auth by [Wilfried Mbouenda Mbogne](http://developer-journey.com/)
 - [Firebase Phone Auth](https://medium.com/@gildaswise/flutter-adding-sign-in-with-google-and-phone-authentication-to-your-app-69f681518f9b) <!--claps:@gildaswise/flutter-adding-sign-in-with-google-and-phone-authentication-to-your-app-69f681518f9b--> - Phone number auth via SMS by [Gildásio Filho](https://github.com/gildaswise)
 - [SimpleAuth](https://github.com/Clancey/simple_auth) <!--stargazers:Clancey/simple_auth--> - Azure Active Directory, Amazon, Dropbox, Facebook, Github, Google, Instagram, Linked In, Microsoft Live Connect, Github, OAuth, Basic Auth by [James Clancey](https://github.com/Clancey)
 - [Flutter AppAuth](https://github.com/MaikuB/flutter_appauth) <!--stargazers:MaikuB/flutter_appauth--> - Plugin for displaying local notifications by [Michael Bui](https://github.com/MaikuB)
@@ -519,6 +519,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Reply](https://github.com/flschweiger/reply) <!--stargazers:flschweiger/reply--> - 'Reply' Material Design case study by [Frederik Schweiger](https://github.com/flschweiger)
 - [Enigma](https://github.com/AmitJoki/Enigma) - Privacy chat with end-to-end encryption by [AmitJoki](https://github.com/AmitJoki)
 - [Chillify](https://github.com/KarimElghamry/chillify) - Fancy music app made with Provider and Bloc pattern by [Karim Elghamry](https://github.com/KarimElghamry)
+- [Pokedex](https://github.com/scitbiz/flutter_pokedex) - Pokedex app with beautiful UI and smooth animation by [Hung Pham](https://github.com/scitbiz)
 
 ### Games
 
@@ -594,7 +595,6 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - Twitter [Page](https://twitter.com/AngolaFlutter)
 
 ### 🇧🇷Brazil
-- [Flutter talk](https://github.com/JHBitencourt/flutter_talk) de introdução ao Flutter em português by [Julio Bitencourt](http://juliobitencourt.com)
 - Slack [Flutter Brasil](https://flutterbr.slack.com)
 - Medium [Flutter Comunidade BR](https://medium.com/flutter-comunidade-br)
 - Twitter [Flutter Comunidade BR](https://twitter.com/br_flutter)
@@ -615,11 +615,15 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 - Meetup [Denmark](https://www.meetup.com/Flutter-Developers-Denmark/)
 
+### 🇪🇹 Ethiopia
+
+- [Telegram](https://t.me/flutter_forum/)
+
 ### 🇫🇷France
 
 - Meetup [Bordeaux](https://www.meetup.com/fr-FR/Flutter-Bordeaux) - [Paris](https://www.meetup.com/fr-FR/Flutter-Paris) - [Rennes](https://www.meetup.com/fr-FR/Flutter-Rennes)
-- [Twitter](https://twitter.com/FlutterDev) - Toutes les news et annonces dans votre flux.
-- [Slack](https://slack.flutter-france.fr) - Slack dédié à la communauté française.
+- [Twitter](https://twitter.com/FlutterDev)
+- [Slack](https://slack.flutter-france.fr)
 
 ### 🇩🇪Germany
 
@@ -633,32 +637,34 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 ### 🇳🇬Nigeria
 
-- Slack [DevCenter Square](https://devcenter-square-slack.herokuapp.com) - Square Team's #flutter community channel
-- [WhatsApp](https://chat.whatsapp.com/FR2G7r33KjKAVQrB3AKp0H) - Dart & Flutter community
-- Twitter [FlutterLagos](https://twitter.com/FlutterLagos) - Dart & Flutter community (Lagos)
+- Slack [DevCenter Square](https://devcenter-square-slack.herokuapp.com)
+- [WhatsApp](https://chat.whatsapp.com/FR2G7r33KjKAVQrB3AKp0H)
+- Twitter [FlutterLagos](https://twitter.com/FlutterLagos)
 
 ### 🇵🇹Portugal
-- [Meetup](https://www.meetup.com/flutterportugal) - Portuguese speaking Flutter Community
+- [Meetup](https://www.meetup.com/flutterportugal)
 
 ### 🇷🇺Russia
 
-- [Telegram](https://t.me/rudart) - Russian speaking Dart & Flutter community.
+- [Telegram](https://t.me/rudart) 
 
 ### 🇱🇰Sri Lanka
 
-- [Gitter](https://gitter.im/Colombo-Flutter-Community) - The place where you can meet developers and discuss about projects.
-- [Slack](https://fluttercmb.slack.com/) - Flutter community Slack channel.
-- [Community GitHub Page](https://github.com/Colombo-Flutter-Meetup) - Open Source Projects hosted by Colombo Flutter community.
-- [YouTube Channel](https://www.youtube.com/channel/UCTn0DzwU0YGvISOGiTKPhtg) -  To check meetups related videos.
-- [Facebook Page](https://www.facebook.com/flutterCMB/) - Facebook page of the Colombo Flutter community.
+- [Gitter](https://gitter.im/Colombo-Flutter-Community) 
+- [Slack](https://fluttercmb.slack.com/)
+- [Community GitHub Page](https://github.com/Colombo-Flutter-Meetup)
+- [Facebook Page](https://www.facebook.com/flutterCMB/) 
 
 ### 🇬🇧United Kingdom
 
-- Meetup [London](https://www.meetup.com/FlutterLDN/) / 🐦[Twitter](https://twitter.com/FlutterLDN) / 📹[YouTube](https://www.youtube.com/channel/UC_a-vGdkAIRMKT1zzZ4I2ag)
+- Meetup [London](https://www.meetup.com/FlutterLDN/) 
+- [Twitter](https://twitter.com/FlutterLDN) 
+- [YouTube](https://www.youtube.com/channel/UC_a-vGdkAIRMKT1zzZ4I2ag)
 
 ### 🇺🇸United States
 
 - Meetup [Chicago](https://www.meetup.com/Flutter-Chicago/)
+
 
 ## Hall Of Fame
 
