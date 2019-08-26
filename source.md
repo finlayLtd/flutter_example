@@ -487,6 +487,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 ### Testing
 
 - [Ozzie](https://github.com/jorgecoca/ozzie.flutter) <!--stargazers:jorgecoca/ozzie.flutter--> - Ozzie will take an screenshot during integration tests whenever you need by [Jorge Coca](https://github.com/jorgecoca)
+- [Flutter Gherkin](https://github.com/jonsamwell/flutter_gherkin) <!--stargazers:jonsamwell/flutter_gherkin--> - A fully featured Gherkin parser and UI automated test runner by [Jon Samwell](https://github.com/jonsamwell)
 
 ### Others
 
@@ -613,7 +614,6 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - Medium [Flutter Comunidade BR](https://medium.com/flutter-comunidade-br)
 - Twitter [Flutter Comunidade BR](https://twitter.com/br_flutter)
 - Meetup [São Paulo](https://www.meetup.com/flutter-sp)
-- [Flutter para iniciantes](https://www.flutterparainiciantes.com.br)
 
 ### 🇨🇦 Canada
 
