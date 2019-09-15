@@ -1,4 +1,5 @@
 [<img src="https://user-images.githubusercontent.com/1295961/45949308-cbb2f680-bffb-11e8-8054-28c35ed6d132.png" align="center" width="850">](https://flutter.dev/)
+[<img src="https://user-images.githubusercontent.com/1295961/64920587-d725a180-d7b9-11e9-9231-852c8102986e.png" align="center" width="850">](https://fluttereurope.dev)
 
 <p align="center">
   <a href="https://twitter.com/BlueAquilae">
@@ -541,7 +542,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Crush](https://github.com/boeledi/flutter_crush) <!--stargazers:boeledi/flutter_crush--> - How to build a Math-3 game, like Candy Crush, Bejeweled by [Didier Boelens](https://didierboelens.com)
 - [Slide Puzzle](https://github.com/kevmoo/slide_puzzle) <!--stargazers:kevmoo/slide_puzzle--> - Classic slide (15) puzzle by [Kevin Moore](https://github.com/kevmoo)
 - [Tetris](https://github.com/boyan01/flutter-tetris) <!--stargazers:boyan01/flutter-tetris--> - Tetris game by [YangBin](https://github.com/boyan01)
-- [Party Charades](https://github.com/vintage/party_flutter) <!--stargazers:vintage/party_flutter--> - Party charades by [Kamil Rykowski](https://twitter.com/rykowski_dev)
+
 
 ## Utilities
 
