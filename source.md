@@ -553,7 +553,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Crush](https://github.com/boeledi/flutter_crush) <!--stargazers:boeledi/flutter_crush--> - How to build a Math-3 game, like Candy Crush, Bejeweled by [Didier Boelens](https://didierboelens.com)
 - [Slide Puzzle](https://github.com/kevmoo/slide_puzzle) <!--stargazers:kevmoo/slide_puzzle--> - Classic slide (15) puzzle by [Kevin Moore](https://github.com/kevmoo)
 - [Tetris](https://github.com/boyan01/flutter-tetris) <!--stargazers:boyan01/flutter-tetris--> - Tetris game by [YangBin](https://github.com/boyan01)
-
+- [Party Charades](https://github.com/vintage/party_flutter) <!--stargazers:vintage/party_flutter--> - Party charades by [Kamil Rykowski](https://github.com/vintage)
 
 ## Utilities
 
@@ -577,7 +577,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 ### Desktop
 
 - [Desktop Embedding](https://github.com/google/flutter-desktop-embedding) <!--stargazers:google/flutter-desktop-embedding--> - Desktop implementations of the Flutter embedding API by Google
-- [Golang Desktop Embedder](https://github.com/go-flutter-desktop/go-flutter) <!--stargazers:go-flutter-desktop/go-flutter--> - Golang embedder for desktop by [Pierre Champion](https://github.com/Drakirus)
+- [Golang Desktop Embedder](https://github.com/go-flutter-desktop/go-flutter) <!--stargazers:go-flutter-desktop/go-flutter--> - Golang embedder for desktop by [Pierre Champion](https://github.com/pchampio)
 - [Rust Desktop Embedder](https://github.com/gliheng/flutter-rs) <!--stargazers:gliheng/flutter-rs--> - Rust embedder for desktop by [juju](https://github.com/gliheng).
 
 ## Bonus
