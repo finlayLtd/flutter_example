@@ -369,7 +369,6 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Feather](https://github.com/jhomlala/feather) <!--stargazers:jhomlala/feather--> - Beautiful weather application. Application includes RxDart, Dio, BLoC, i18n, unit and widget tests. by [Jakub Homlala](https://github.com/jhomlala)
 - [Clone UI Challenges](https://github.com/javico2609/flutter-challenges) <!--stargazers:javico2609/flutter-challenges--> - Collection of useful UIs clones by [Javier González](https://github.com/javico2609)
 - [FlutterFoodybite](https://github.com/JideGuru/FlutterFoodybite) <!--stargazers:JideGuru/FlutterFoodybite--> - A beautiful food app UI template by [JideGuru](https://github.com/JideGuru)
-- [Flutter Samples](https://github.com/diegoveloper/flutter-samples) <!--stargazers:diegoveloper/flutter-samples--> - A collection of nice flutter samples by [Diego Velásquez](https://github.com/diegoveloper).
 
 ### Web
 
@@ -706,6 +705,12 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 ### 🇵🇹 Portugal
 - [Meetup](https://www.meetup.com/flutterportugal)
+
+### 🇵🇪 Peru
+
+- Facebook [Flutter Peru Group](https://www.facebook.com/groups/flutterperu/)
+- Meetup [Flutter Peru](https://meetup.com/Flutter-Peru/)
+- Twitter [Flutter Peru](https://twitter.com/FlutterPeru)
 
 ### 🇷🇺 Russia
 
