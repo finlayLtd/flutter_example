@@ -80,6 +80,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Animations in Flutter](https://proandroiddev.com/animations-in-flutter-6e02ee91a0b2) <!--claps:@muhammedsalihguler/animations-in-flutter-6e02ee91a0b2--> - Commonly used animation examples by [Muhammed Salih Güler](https://proandroiddev.com/@muhammedsalihguler)
 - [Layout Cheat Sheet](https://medium.com/flutter-community/flutter-layout-cheat-sheet-5363348d037e) - Extensive examples of layout widgets by [Tomek Polański](https://github.com/tomaszpolanski)
 - [Pooja's Guide to Flutterverse](https://medium.com/flutter-community/i-want-to-learn-flutter-how-to-start-ffb4145f9b26) <!--claps:flutter-community/i-want-to-learn-flutter-how-to-start-ffb4145f9b26--> - Step by step guide for learning Flutter for super beginners by [Pooja Bhaumik](https://twitter.com/pblead26).
+- [Roadmap To Become A Flutter Developer](https://medium.com/flutterdevs/roadmap-to-become-a-flutter-developer-resources-for-beginners-ccb68718c84b) - A quick step by step resource guide for those who want to learn flutter by [Ashish Rawat](https://www.ashishrawat.dev).
 
 ### Advanced
 
@@ -143,7 +144,6 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Scratcher](https://github.com/vintage/scratcher) <!--stargazers:vintage/scratcher--> - Scratch card widget which temporarily hides content from user, by [Kamil Rykowski](https://github.com/vintage).
 - [Image Sequence Animator](https://github.com/aliyigitbireroglu/flutter-image-sequence-animator) <!--stargazers:aliyigitbireroglu/flutter-image-sequence-animator--> - A simple widget for animating a set of images with full custom controls as an alternative to using a GIF file by [Ali Yigit Bireroglu](https://github.com/aliyigitbireroglu).
 - [Beautiful_Popup](https://github.com/jaweii/Flutter_beautiful_popup) <!--stargazers:jaweii/Flutter_beautiful_popup--> - Beautify your app popup by [jaweii](https://github.com/jaweii).
-- [Flutter Trianglify](https://github.com/JonathanMonga/flutter_trianglify) <!--stargazers:JonathanMonga/flutter_trianglify--> - Create beautiful triangles by [Jonathan Monga](https://github.com/JonathanMonga).
 
 #### Sticky Headers
 
@@ -200,7 +200,6 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Wave](https://github.com/i-protoss/wave) <!--stargazers:i-protoss/wave--> - Displaying some waves with custom color, duration, floating and blur effects by [RockerFlower](https://github.com/RockerFlower)
 - [Liquid Swipe](https://github.com/iamSahdeep/liquid_swipe_flutter) - Liquid swipe to your stacked containers by [Sahdeep Singh](https://github.com/iamSahdeep)
 - [PhotoFilters](https://github.com/skkallayath/photofilters) <!--stargazers:skkallayath/photofilters--> - Apply filters to an image by [Sharafudheen KK](https://github.com/skkallayath).
-- [Flutter Shine.dart](https://github.com/JonathanMonga/flutter_shine.dart) <!--stargazers:JonathanMonga/flutter_shine.dart-->  - Flutter Shine is a library for pretty shadows, dynamic light positions and more by [Jonathan Monga](https://github.com/JonathanMonga/).
 
 #### Calendar
 
@@ -707,6 +706,12 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 ### 🇵🇹 Portugal
 - [Meetup](https://www.meetup.com/flutterportugal)
+
+### 🇵🇪 Peru
+
+- Facebook [Flutter Peru Group](https://www.facebook.com/groups/flutterperu/)
+- Meetup [Flutter Peru](https://meetup.com/Flutter-Peru/)
+- Twitter [Flutter Peru](https://twitter.com/FlutterPeru)
 
 ### 🇷🇺 Russia
 
