@@ -80,6 +80,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Animations in Flutter](https://proandroiddev.com/animations-in-flutter-6e02ee91a0b2) <!--claps:@muhammedsalihguler/animations-in-flutter-6e02ee91a0b2--> - Commonly used animation examples by [Muhammed Salih Güler](https://proandroiddev.com/@muhammedsalihguler)
 - [Layout Cheat Sheet](https://medium.com/flutter-community/flutter-layout-cheat-sheet-5363348d037e) - Extensive examples of layout widgets by [Tomek Polański](https://github.com/tomaszpolanski)
 - [Pooja's Guide to Flutterverse](https://medium.com/flutter-community/i-want-to-learn-flutter-how-to-start-ffb4145f9b26) <!--claps:flutter-community/i-want-to-learn-flutter-how-to-start-ffb4145f9b26--> - Step by step guide for learning Flutter for super beginners by [Pooja Bhaumik](https://twitter.com/pblead26).
+- [Roadmap To Become A Flutter Developer](https://medium.com/flutterdevs/roadmap-to-become-a-flutter-developer-resources-for-beginners-ccb68718c84b) - A quick step by step resource guide for those who want to learn flutter by [Ashish Rawat](https://www.ashishrawat.dev).
 
 ### Advanced
 
@@ -199,6 +200,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Wave](https://github.com/i-protoss/wave) <!--stargazers:i-protoss/wave--> - Displaying some waves with custom color, duration, floating and blur effects by [RockerFlower](https://github.com/RockerFlower)
 - [Liquid Swipe](https://github.com/iamSahdeep/liquid_swipe_flutter) - Liquid swipe to your stacked containers by [Sahdeep Singh](https://github.com/iamSahdeep)
 - [PhotoFilters](https://github.com/skkallayath/photofilters) <!--stargazers:skkallayath/photofilters--> - Apply filters to an image by [Sharafudheen KK](https://github.com/skkallayath).
+- [Shine](https://github.com/JonathanMonga/flutter_shine.dart) <!--stargazers:JonathanMonga/flutter_shine.dart-->  - Pretty shadows with dynamic light positions by [Jonathan Monga](https://github.com/JonathanMonga/).
 
 #### Calendar
 
@@ -249,6 +251,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [FCharts](https://github.com/thekeenant/fcharts) <!--stargazers:thekeenant/fcharts--> - Beautiful, responsive, animated charts by [Keenan Thompson](https://keenant.com)
 - [FL Chart](https://github.com/imaNNeoFighT/fl_chart) <!--stargazers:imaNNeoFighT/fl_chart--> - Draw fantastic charts in Flutter by [Iman Khoshabi](http://www.ikhoshabi.com)
 - [Bezier Chart](https://github.com/aeyrium/bezier-chart) <!--stargazers:aeyrium/bezier-chart--> - Beautiful bezier line chart widget for flutter that is highly interactive and configurable by [Diego Velasquez](https://twitter.com/diegoveloper)
+- [Flutter Echarts](https://github.com/entronad/flutter_echarts) <!--stargazers:entronad/flutter_echarts--> - A Flutter widget to use Echarts in a reactive way by [LIN Chen](https://github.com/entronad)
 
 ### Navigation
 
@@ -369,8 +372,8 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Feather](https://github.com/jhomlala/feather) <!--stargazers:jhomlala/feather--> - Beautiful weather application. Application includes RxDart, Dio, BLoC, i18n, unit and widget tests. by [Jakub Homlala](https://github.com/jhomlala)
 - [Clone UI Challenges](https://github.com/javico2609/flutter-challenges) <!--stargazers:javico2609/flutter-challenges--> - Collection of useful UIs clones by [Javier González](https://github.com/javico2609)
 - [FlutterFoodybite](https://github.com/JideGuru/FlutterFoodybite) <!--stargazers:JideGuru/FlutterFoodybite--> - A beautiful food app UI template by [JideGuru](https://github.com/JideGuru)
+- [Flutter Samples](https://github.com/diegoveloper/flutter-samples) <!--stargazers:diegoveloper/flutter-samples--> - Collection of nice flutter samples by [Diego Velásquez](https://github.com/diegoveloper).
 - [ActingWeb First_App](https://github.com/gregertw/actingweb_firstapp) <!--stargazers:gregertw/actingweb_firstapp--> - Starter app with basic elements for a team-developed production-quality app by [Greger Wedel](https://github.com/gregertw) 
-
 
 ### Web
 
