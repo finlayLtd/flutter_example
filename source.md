@@ -379,7 +379,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 ### Clone
 
-- [GitTouch](https://github.com/pd4d10/git-touch) <!--stargazers:pd4d10/git-touch--> - Open source mobile client for GitHub, GitLab, Bitbucket and Gitea by [Rongjian Zhang](https://github.com/pd4d10)
+- [GitTouch](https://github.com/pd4d10/git-touch) <!--stargazers:pd4d10/git-touch--> - Open source GitHub client by [Rongjian Zhang](https://github.com/pd4d10)
 
 ### Machine Learning
 
@@ -740,6 +740,10 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Telegram Group](https://t.me/FlutterTR)
 - [Slack](https://bit.ly/flutterTR)
 - [Github](https://github.com/flutterturkey)
+
+### 🇺🇦 Ukraine
+- [Telegram](https://t.me/artflutter)
+- [Twitter](https://twitter.com/ArtFlutter)
 
 ### 🇬🇧 United Kingdom
 
