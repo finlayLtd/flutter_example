@@ -380,7 +380,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 ### Clone
 
-- [GitTouch](https://github.com/pd4d10/git-touch) <!--stargazers:pd4d10/git-touch--> - Open source GitHub client by [Rongjian Zhang](https://github.com/pd4d10)
+- [GitTouch](https://github.com/pd4d10/git-touch) <!--stargazers:pd4d10/git-touch--> - Open source mobile client for GitHub, GitLab, Bitbucket and Gitea by [Rongjian Zhang](https://github.com/pd4d10)
 
 ### Machine Learning
 
@@ -708,6 +708,14 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [WhatsApp](https://chat.whatsapp.com/FR2G7r33KjKAVQrB3AKp0H)
 - Twitter [FlutterLagos](https://twitter.com/FlutterLagos)
 
+### 🇵🇭 Philippines
+- [Website](https://flutter.ph/)
+- [Meetup](https://www.meetup.com/flutterph/)
+- [Twitter](https://twitter.com/flutter_ph)
+- [Facebook Page](https://web.facebook.com/flutterphilippines/)
+- [Facebook Group](https://web.facebook.com/groups/flutterphilippines/)
+- [Github](https://github.com/flutterph)
+
 ### 🇵🇱 Poland
 - [Flutter Developers Poland Facebook Group](https://www.facebook.com/groups/2228619364094561/about/)
 - [Flutter Poland Slack workspace](http://bit.ly/flutter-pl-slack)
@@ -754,6 +762,10 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Telegram Group](https://t.me/FlutterTR)
 - [Slack](https://bit.ly/flutterTR)
 - [Github](https://github.com/flutterturkey)
+
+### 🇺🇦 Ukraine
+- [Telegram](https://t.me/artflutter)
+- [Twitter](https://twitter.com/ArtFlutter)
 
 ### 🇬🇧 United Kingdom
 
