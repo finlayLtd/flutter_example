@@ -144,6 +144,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Scratcher](https://github.com/vintage/scratcher) <!--stargazers:vintage/scratcher--> - Scratch card widget which temporarily hides content from user, by [Kamil Rykowski](https://github.com/vintage).
 - [Image Sequence Animator](https://github.com/aliyigitbireroglu/flutter-image-sequence-animator) <!--stargazers:aliyigitbireroglu/flutter-image-sequence-animator--> - A simple widget for animating a set of images with full custom controls as an alternative to using a GIF file by [Ali Yigit Bireroglu](https://github.com/aliyigitbireroglu).
 - [Beautiful_Popup](https://github.com/jaweii/Flutter_beautiful_popup) <!--stargazers:jaweii/Flutter_beautiful_popup--> - Beautify your app popup by [jaweii](https://github.com/jaweii).
+- [Credit Card Form](https://github.com/Origogi/Flutter-Credit-Card-Input) <!--stargazers:Origogi/Flutter-Credit-Card-Input--> - Animated credit card input form [Origogi](https://github.com/Origogi).
 
 #### Sticky Headers
 
@@ -239,7 +240,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [GeoCoder](https://github.com/aloisdeniel/flutter_geocoder) <!--stargazers:aloisdeniel/flutter_geocoder--> - Forward and reverse geocoding by [Aloïs Deniel](https://aloisdeniel.github.com)
 - [Map](https://github.com/apptreesoftware/flutter_map) <!--stargazers:apptreesoftware/flutter_map--> - Solution based on [Leaflet](http://leafletjs.com/) and customizable by [AppTree Software](https://github.com/apptreesoftware)
 - [Mapbox GL](https://github.com/mapbox/flutter-mapbox-gl) <!--stargazers:mapbox/flutter-mapbox-gl--> - Interactive, customizable vector maps by Mapbox
-- [AMap](https://github.com/OpenFlutter/amap_base_flutter) <!--stargazers:OpenFlutter/amap_base_flutter--> - Access to AMap services(高德地图) by [OpenFlutter](https://github.com/OpenFlutter)
+- [AMap](https://github.com/fluttify-project/amap_map_fluttify) <!--stargazers:fluttify-project/amap_map_fluttify--> - Access to AMap services(高德地图) by [fluttify-project](https://github.com/fluttify-project)
 
 ### Charts
 
