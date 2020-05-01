@@ -326,7 +326,6 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 - [WebRTC](https://github.com/cloudwebrtc/flutter-webrtc) <!--stargazers:cloudwebrtc/flutter-webrtc--> - WebRTC plugin for iOS/Android by [CloudWebRtc](https://github.com/cloudwebrtc)
 - [Chewie](https://github.com/brianegan/chewie) <!--stargazers:brianegan/chewie--> - Provides low-level access to video playback by [Brian Egan](https://github.com/brianegan)
-- [Video Trimmer](https://github.com/sbis04/video_trimmer) <!--stargazers:sbis04/video_trimmer--> - A Flutter package for trimming videos by [Souvik Biswas](https://github.com/sbis04)
 
 #### Voice
 
@@ -591,10 +590,12 @@ This section contains libraries that take an experimental or unorthodox approach
 
 - [Awesome Snippets](https://marketplace.visualstudio.com/items?itemName=Nash.awesome-flutter-snippets) - Collection of commonly used classes and methods by [Nash](https://twitter.com/Nash0x7E2)
 - [Flutter Files](https://marketplace.visualstudio.com/items?itemName=gornivv.vscode-flutter-files) - Quick generation for BLoC templates files by context menu by [Gorniv](https://github.com/gorniv).
+- [Flutter Intl](https://marketplace.visualstudio.com/items?itemName=localizely.flutter-intl) - Flutter i18n binding from .arb files by [Localizely](https://twitter.com/localizely)
 
 ### IntelliJ / Android Studio
 
 - [Enhancement_Suite](https://github.com/marius-h/flutter_enhancement_suite) <!--stargazers:marius-h/flutter_enhancement_suite--> - Search for pub.dev libraries, update version, Bloc, Snippet, etc you're covered by [Marius Höfler](https://github.com/marius-h)
+- [Flutter Intl](https://plugins.jetbrains.com/plugin/13666-flutter-intl) - Flutter i18n binding from .arb files by [Localizely](https://twitter.com/localizely)
 
 ### Desktop
 
