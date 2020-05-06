@@ -585,17 +585,16 @@ This section contains libraries that take an experimental or unorthodox approach
 - [Redux Starter/Code Generator](https://github.com/hillelcoren/flutter-redux-starter) <!--stargazers:hillelcoren/flutter-redux-starter--> - Starter project and code generator with Redux support by [Hillel Coren](https://twitter.com/hillelcoren)
 - [FlutterIcon](http://fluttericon.com/) <!--stargazers:ilikerobots/polyicon--> - Icon set generator by [Mike Hoolehan](https://github.com/ilikerobots)
 - [FVM](https://github.com/leoafarias/fvm) <!--stargazers:leoafarias/fvm--> - Flutter Version Management: A simple cli to manage Flutter SDK versions.
+- [Environment Configuration](https://github.com/TatsuUkraine/dart_environment_config) <!--stargazers:TatsuUkraine/dart_environment_config--> - CLI tool to generate `.env` configurations for application environments by [TatsuUkraine](https://github.com/TatsuUkraine)
 
 ### VSCode
 
 - [Awesome Snippets](https://marketplace.visualstudio.com/items?itemName=Nash.awesome-flutter-snippets) - Collection of commonly used classes and methods by [Nash](https://twitter.com/Nash0x7E2)
 - [Flutter Files](https://marketplace.visualstudio.com/items?itemName=gornivv.vscode-flutter-files) - Quick generation for BLoC templates files by context menu by [Gorniv](https://github.com/gorniv).
-- [Flutter Intl](https://marketplace.visualstudio.com/items?itemName=localizely.flutter-intl) - i18n binding from arb files by [Localizely](https://twitter.com/localizely)
 
 ### IntelliJ / Android Studio
 
 - [Enhancement_Suite](https://github.com/marius-h/flutter_enhancement_suite) <!--stargazers:marius-h/flutter_enhancement_suite--> - Search for pub.dev libraries, update version, Bloc, Snippet, etc you're covered by [Marius Höfler](https://github.com/marius-h)
-- [Flutter Intl](https://plugins.jetbrains.com/plugin/13666-flutter-intl) - 18n binding from arb files by [Localizely](https://twitter.com/localizely)
 
 ### Desktop
 
@@ -808,6 +807,9 @@ This section contains libraries that take an experimental or unorthodox approach
 - [Meetup Oslo](https://www.meetup.com/Oslo-Flutter-Dart-Meetup/)
 - [Meetup Stavanger](https://www.meetup.com/Flutter-Stavanger/)
 - [Twitter](https://twitter.com/flutterNorway)
+
+### 🇺🇿 Uzbekistan
+ - [Telegram](https://t.me/dartdevuz)
 
 ## License
 
