@@ -113,7 +113,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 ### Demonstrations
 
-- [Official Gallery](https://github.com/flutter/gallery) - Demo for the material design widgets provided by Flutter Team
+- [Official Gallery](https://github.com/flutter/flutter/tree/master/examples/flutter_gallery) - Demo for the material design widgets provided by Flutter Team
 - [Flutter Examples](https://github.com/nisrulz/flutter-examples) <!--stargazers:nisrulz/flutter-examples--> - Simple basic isolated apps for devs by [Nishant Srivastava](https://github.com/nisrulz)
 - [Flutter Catalog](https://github.com/X-Wei/flutter_catalog) <!--stargazers:X-Wei/flutter_catalog--> - An app showcasing Flutter components, with side-by-side source code view, by [X-Wei](https://github.com/X-Wei)
 
@@ -721,6 +721,10 @@ This section contains libraries that take an experimental or unorthodox approach
 - Meetup [Flutter Korea](https://www.meetup.com/ko-KR/Flutter-Korea/)
 - Facebook [Flutter Korea User Group](https://www.facebook.com/groups/flutterkorea/)
 - Slack [GDG Korea #flutter channel](http://slack.gdg.kr/)
+
+### 🇲🇾 Malaysia
+
+- Telegram [Flutter/Dart Dev Malaysia](https://t.me/flutterdevmalaysia)
 
 ### 🇳🇬 Nigeria
 
