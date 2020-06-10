@@ -47,8 +47,8 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Open Source Apps](#open-source-apps)
 - [Web](#web)
 - [Utilities](#utilities)
+- [Books](#books)
 - [Bonus](#bonus)
-- [Jobs](#jobs)
 - [Community](#community)
 
 ## Articles
@@ -385,6 +385,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [FlutterFoodybite](https://github.com/JideGuru/FlutterFoodybite) <!--stargazers:JideGuru/FlutterFoodybite--> - Beautiful food app UI template by [JideGuru](https://github.com/JideGuru)
 - [Flutter Samples](https://github.com/diegoveloper/flutter-samples) <!--stargazers:diegoveloper/flutter-samples--> - Collection of nice flutter samples by [Diego Velásquez](https://github.com/diegoveloper).
 - [ActingWeb First_App](https://github.com/gregertw/actingweb_firstapp) <!--stargazers:gregertw/actingweb_firstapp--> - Starter app with basic elements for a team-developed production-quality app by [Greger Wedel](https://github.com/gregertw) 
+- [Smart Washing Machine](https://github.com/pawlik92/flutter_whirlpool) <!--stargazers:pawlik92/flutter_whirlpool--> - Smart washing machine UI challenge app with Box2D physic engine by [Tomasz Pawlikowski](https://github.com/pawlik92)
 
 ### Web
 
@@ -646,12 +647,7 @@ This section contains libraries that take an experimental or unorthodox approach
 
 - [Matrix2](https://github.com/bus710/matrix2) - Sense Hat's LED matrix control game by [bus710](https://github.com/bus710)
 
-## Jobs
-
-- [Flutter jobs](https://flutterjobs.info/) - A job board for Flutter by [Cogitas Ltd](https://cogitas.net/)
-- [Jobs in Flutter](https://jobsinflutter.io/) - A job board for Flutter Developers. List amazing jobs in your company! Jobs, resources, tips and join to community! by [Toby Allen](https://twitter.com/tobyallen007)
-
-### Interview questions
+## Jobs/Interview Questions
 
 - [Interview Questions](https://github.com/whatsupcoders/Flutter-Interview-Questions) - List of helpful questions you can use to interview potential candidates by [Whatsupcoders](https://github.com/whatsupcoders/Whatsupcoders-flutter)
 
