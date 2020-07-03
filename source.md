@@ -146,7 +146,6 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Credit Card Form](https://github.com/Origogi/Flutter-Credit-Card-Input) <!--stargazers:Origogi/Flutter-Credit-Card-Input--> - Animated credit card input form [Origogi](https://github.com/Origogi).
 - [Animated Selection Slide](https://github.com/sbilketay/animated_selection_slide) An animated selection widget by swiping by [Sezgin Bilgetay](https://github.com/sbilketay).
 - [Flutter Tags](https://github.com/Dn-a/flutter_tags) <!--stargazers:Dn-a/flutter_tags--> - Tags with different customizations by [Di Natale Antonino](https://github.com/Dn-a).
-- [Flutter Neumorphic](https://github.com/Idean/Flutter-Neumorphic) <!--stargazers:Idean/Flutter-Neumorphic--> - Ready to use Neumorphic kit for Flutter with 🕶️ dark mode.
 
 #### Sticky Headers
 
@@ -309,7 +308,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 - [Bitrise for Flutter](https://devcenter.bitrise.io/getting-started/getting-started-with-flutter-apps/) - Flutter build, test and deployment automation, free for Open Source and smaller projects.
 - [Code Magic](https://codemagic.io/) - Automate the entire flow, build and distribution by [NeverCode](https://nevercode.io/).
-- [Travis CI for Flutter](https://github.com/yjbanov/flutter_travis_sample) <!--stargazers:yjbanov/flutter_travis_sample--> - Continuous integration by [Yegor Jbanov](https://twitter.com/yegorjbanov)
+- [Appcircle for Flutter](https://appcircle.io/blog/guide-to-automated-mobile-ci-cd-for-flutter-projects-with-appcircle/) - Automated mobile CI/CD/CT with online device emulators by [Appcircle](https://appcircle.io/).
 
 #### Build articles
 
