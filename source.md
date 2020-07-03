@@ -215,6 +215,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Calendar Carousel Widget](https://github.com/dooboolab/flutter_calendar_carousel) <!-- stargazers:dooboolab/flutter_calendar_carousel--> - Calendar carousel by [dooboolab](https://github.com/dooboolab/flutter_calendar_carousel)
 - [Date range picker](https://github.com/anicdh/date_range_picker) <!-- stargazers:anicdh/date_range_picker--> - Date range picker modified based on Flutter date picker by [An Doan](https://github.com/anicdh)
 - [Table Calendar](https://github.com/aleksanderwozniak/table_calendar) <!--stargazers:aleksanderwozniak/table_calendar--> - Calendar organized neatly into a Table, with vertical autosizing by [Aleksander Woźniak](https://github.com/aleksanderwozniak)
+- [SomeCalendar](https://github.com/agryva/Some-Calendar) <!--stargazers:agryva/Some-Calendar--> - Custom calendar dialog (multi select, single select, date range) mode by [agryva](https://github.com/agryva)
 
 #### Login
 
@@ -593,7 +594,6 @@ This section contains libraries that take an experimental or unorthodox approach
 - [Pokedex](https://github.com/scitbiz/flutter_pokedex) - Pokedex app with beautiful UI and smooth animation by [Hung Pham](https://github.com/scitbiz)
 - [Timy Messenger](https://github.com/janoodleFTW/timy-messenger) <!--stargazers:janoodleFTW/timy-messenger--> - Group messaging app with a focus on organizing events by [Miguel Beltran](https://github.com/miquelbeltran) and [Franz Heinfling](https://github.com/fheinfling)
 - [GitJournal](https://github.com/GitJournal/GitJournal) <!--stargazers:GitJournal/GitJournal--> - Journaling your data in a Git Repo by [Vishesh Handa](https://github.com/vHanda)
-- [AuthPass](https://github.com/authpass/authpass) <!--stargazers:authpass/authpass--> - Keepass compatible password manager for mobile and desktop by [hpoul](https://github.com/hpoul)
 
 ## Utilities
 
