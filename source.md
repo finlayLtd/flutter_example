@@ -109,7 +109,6 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Mtechviral](https://www.youtube.com/watch?v=qWL1lGchpRA&list=PLR2qQy0Zxs_UdqAcaipPR3CG1Ly57UlhV) <!--youtube:list/PLR2qQy0Zxs_UdqAcaipPR3CG1Ly57UlhV--> - [Hindi/English] Mtechviral Series By [Pawan Kumar](https://github.com/iampawan)
 - [Flutter in Practice](https://www.youtube.com/playlist?list=PLhXZp00uXBk5TSY6YOdmpzp1yG3QbFvrN) - Free video course for beginners & non-programmers by [Zaiste](https://zaiste.net/)
 - [Whatsupcoders](https://www.youtube.com/c/whatsupcoders) <!--youtube:list/PL6BTtm1PxwOUpt1muzFD3ErxWdCzLkYbI--> - Free video series on Flutter Widgets by [Kamal](https://github.com/whatsupcoders)
-- [Code With Andrea](https://www.youtube.com/channel/UCrTnsT4OYZ53l0QGKqLeD5Q) - Flutter App Development Tutorials by [Andrea Bizzotto](https://twitter.com/biz84)
 
 ## Components
 
@@ -729,6 +728,9 @@ This section contains libraries that take an experimental or unorthodox approach
 
 - Meetup [Athens](https://www.meetup.com/Athens-Flutter-Group/)
 - Slack [Flutter GR](https://join.slack.com/t/fluttergr/shared_invite/enQtNzQwODM2NzIxOTg0LWFjNWYxYzkyMTdmYWQ4ZWYyMWI2YjcyOTI4YzAzYjY2Nzk3OWNkMTkwZGRjNjRiMGFlNzgyOGRhMmEyZTQ3MmM)
+
+### 🇮🇳 India
+- Telegram [Flutter India 🇮🇳](https://t.me/flutterindia)
 
 ### 🇮🇩 Indonesia
 - Telegram [Flutter Indonesia](https://t.me/flutter_id)
