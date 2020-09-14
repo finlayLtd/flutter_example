@@ -49,6 +49,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Utilities](#utilities)
 - [Books](#books)
 - [Bonus](#bonus)
+- [Jobs](#jobs)
 - [Community](#community)
 
 ## Articles
@@ -107,9 +108,8 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Boring Show](https://www.youtube.com/watch?v=CPmN4-i9zC8&list=PLOU2XLYxmsIK0r_D-zWcmJ1plIcDNnRkK) - Exploration with the Flutter Team.
 - [Tensor Programming](https://www.youtube.com/watch?v=WwhyaqNtNQY&list=PLJbE2Yu2zumDqr_-hqpAN0nIr6m14TAsd) <!--youtube:list/PLJbE2Yu2zumDqr_-hqpAN0nIr6m14TAsd--> - Very rich content by [Tensor Programming](http://tensor-programming.com/)
 - [Mtechviral](https://www.youtube.com/watch?v=qWL1lGchpRA&list=PLR2qQy0Zxs_UdqAcaipPR3CG1Ly57UlhV) <!--youtube:list/PLR2qQy0Zxs_UdqAcaipPR3CG1Ly57UlhV--> - [Hindi/English] Mtechviral Series By [Pawan Kumar](https://github.com/iampawan)
-- [Flutter in Practice](https://www.youtube.com/playlist?list=PLhXZp00uXBk5TSY6YOdmpzp1yG3QbFvrN) - Free video courssd for beginners & non-programmers by [Zaiste](https://zaiste.net/)
+- [Flutter in Practice](https://www.youtube.com/playlist?list=PLhXZp00uXBk5TSY6YOdmpzp1yG3QbFvrN) - Free video course for beginners & non-programmers by [Zaiste](https://zaiste.net/)
 - [Whatsupcoders](https://www.youtube.com/c/whatsupcoders) <!--youtube:list/PL6BTtm1PxwOUpt1muzFD3ErxWdCzLkYbI--> - Free video series on Flutter Widgets by [Kamal](https://github.com/whatsupcoders)
-- [Code With Andrea](https://www.youtube.com/channel/UCrTnsT4OYZ53l0QGKqLeD5Q) - App Development Tutorials by [Andrea Bizzotto](https://twitter.com/biz84)
 
 ## Components
 
@@ -118,6 +118,10 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Official Gallery](https://github.com/flutter/gallery) - Demo for the material design widgets provided by Flutter Team
 - [Flutter Examples](https://github.com/nisrulz/flutter-examples) <!--stargazers:nisrulz/flutter-examples--> - Simple basic isolated apps for devs by [Nishant Srivastava](https://github.com/nisrulz)
 - [Flutter Catalog](https://github.com/X-Wei/flutter_catalog) <!--stargazers:X-Wei/flutter_catalog--> - An app showcasing Flutter components, with side-by-side source code view, by [X-Wei](https://github.com/X-Wei)
+
+#### Web Demonstration
+
+- [Flutter Widget Live Book](https://flutter-widget-livebook.blankapp.org/) - Live web preview of widgets by [JianyingLi](https://github.com/lijy91/)
 
 ### UI
 
@@ -143,8 +147,6 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Credit Card Form](https://github.com/Origogi/Flutter-Credit-Card-Input) <!--stargazers:Origogi/Flutter-Credit-Card-Input--> - Animated credit card input form [Origogi](https://github.com/Origogi).
 - [Animated Selection Slide](https://github.com/sbilketay/animated_selection_slide) An animated selection widget by swiping by [Sezgin Bilgetay](https://github.com/sbilketay).
 - [Flutter Tags](https://github.com/Dn-a/flutter_tags) <!--stargazers:Dn-a/flutter_tags--> - Tags with different customizations by [Di Natale Antonino](https://github.com/Dn-a).
-- [Flutter Neumorphic](https://github.com/Idean/Flutter-Neumorphic) <!--stargazers:Idean/Flutter-Neumorphic--> - Ready to use Neumorphic kit for Flutter with 🕶️ dark mode.
-- [Dough](https://github.com/HatFeather/flutter_dough) <!--stargazers:HatFeather/flutter_dough--> - Widgets for a squishy user interface by [Josiah Saunders](https://github.com/HatFeather).
 
 #### Sticky Headers
 
@@ -212,8 +214,8 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 - [Calendar Widget](https://github.com/pinkfish/flutter_calendar) <!--stargazers:pinkfish/flutter_calendar--> - Calendar widget by [David Bennett](https://github.com/pinkfish)
 - [Calendar Carousel Widget](https://github.com/dooboolab/flutter_calendar_carousel) <!-- stargazers:dooboolab/flutter_calendar_carousel--> - Calendar carousel by [dooboolab](https://github.com/dooboolab/flutter_calendar_carousel)
+- [Date range picker](https://github.com/anicdh/date_range_picker) <!-- stargazers:anicdh/date_range_picker--> - Date range picker modified based on Flutter date picker by [An Doan](https://github.com/anicdh)
 - [Table Calendar](https://github.com/aleksanderwozniak/table_calendar) <!--stargazers:aleksanderwozniak/table_calendar--> - Calendar organized neatly into a Table, with vertical autosizing by [Aleksander Woźniak](https://github.com/aleksanderwozniak)
-- [SomeCalendar](https://github.com/agryva/Some-Calendar) <!--stargazers:agryva/Some-Calendar--> - Multi-select & range configurable calendar by [agryva](https://github.com/agryva)
 
 #### Login
 
@@ -288,7 +290,6 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [AutoSizeText](https://github.com/leisim/auto_size_text) <!--stargazers:leisim/auto_size_text--> - Automatically resizes text to fit perfectly within its bounds by [Simon Leier](https://github.com/leisim).
 - [Parsed Text](https://github.com/fayeed/flutter_parsed_text) <!--stargazers:fayeed/flutter_parsed_text--> - Interactive text based on content recognition, also supports Regex by [Fayeed Pawaskar](https://github.com/fayeed/)
 - [TeX](https://github.com/shah-xad/flutter_tex) <!--stargazers:shah-xad/flutter_tex--> - Render Mathematics Equations with full HTML and JavaScript support by [Shahzad Akram](https://github.com/shah-xad)
-- [Flutter Math](https://github.com/znjameswu/flutter_math) <!--stargazers:znjameswu/flutter_math--> - Fast & High-Quality Equation Rendering with pure Dart & Flutter support by [James Wu](https://github.com/znjameswu)
 
 ### Analytics
 
@@ -308,7 +309,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 - [Bitrise for Flutter](https://devcenter.bitrise.io/getting-started/getting-started-with-flutter-apps/) - Flutter build, test and deployment automation, free for Open Source and smaller projects.
 - [Code Magic](https://codemagic.io/) - Automate the entire flow, build and distribution by [NeverCode](https://nevercode.io/).
-- [Appcircle for Flutter](https://appcircle.io/blog/guide-to-automated-mobile-ci-cd-for-flutter-projects-with-appcircle/) - Automated mobile CI/CD/CT with online device emulators by [Appcircle](https://appcircle.io/).
+- [Travis CI for Flutter](https://github.com/yjbanov/flutter_travis_sample) <!--stargazers:yjbanov/flutter_travis_sample--> - Continuous integration by [Yegor Jbanov](https://twitter.com/yegorjbanov)
 
 #### Build articles
 
@@ -424,6 +425,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Geolocation](https://github.com/loup-v/geolocation) <!--stargazers:loup-v/geolocation--> - Fully featured geolocation plugin: current location, location updates, geocode, places and more by [Loup](http://intheloup.io)
 - [Local Notifications](https://github.com/MaikuB/flutter_local_notifications) <!--stargazers:MaikuB/flutter_local_notifications--> - Plugin for displaying local notifications by [Michael Bui](https://github.com/MaikuB)
 - [Device Calendar](https://github.com/builttoroam/flutter_plugins/tree/master/device_calendar) - Plugin for modifying calendars on the user's device by [Built to Roam](http://builttoroam.com)
+- [Get Version](https://github.com/AppleEducate/get_version) <!--stargazers:AppleEducate/get_version--> - Version Name, Version Code, App ID and Platform with OS Version by [Rody Davis](http://appleeducate.com)
 - [Badger](https://github.com/g123k/flutter_app_badger) <!--stargazers:g123k/flutter_app_badger--> - Update app badge on the launcher by [Edouard Marquez](https://twitter.com/g123k)
 - [UDID](https://github.com/GigaDroid/flutter_udid) <!--stargazers:GigaDroid/flutter_udid--> - Persistent UDID across app reinstalls by [Leon Kukuk](https://kukuk.me)
 - [Downloader](https://github.com/hnvn/flutter_downloader) <!--stargazers:hnvn/flutter_downloader--> - Create and manage download tasks by [HungHD](https://github.com/hnvn)
@@ -447,7 +449,6 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [NFC Reader](https://github.com/matteocrippa/flutter-nfc-reader) <!--stargazers:matteocrippa/flutter-nfc-reader--> - NFC reader plugin for iOS and Android by [Matteo Crippa](https://github.com/matteocrippa)
 - [Beacon broadcast](https://github.com/pszklarska/beacon_broadcast) <!--stargazers:pszklarska/beacon_broadcast--> - Library for turning your phone into a beacon by [Paulina Szklarska](https://github.com/pszklarska/)
 - [Reactive Ble](https://github.com/PhilipsHue/flutter_reactive_ble) <!--stargazers:PhilipsHue/flutter_reactive_ble--> - Handles BLE operations for multiple devices by [Philips Hue](https://github.com/PhilipsHue)
-- [NFC Manager](https://github.com/okadan/flutter-nfc-manager) <!--stargazers:okadan/flutter-nfc-manager--> - Generic NFC plugin for iOS and Android by [Naoki Okada](https://github.com/okadan)
 
 ### Storage
 
@@ -519,7 +520,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 ### Testing
 
-
+- [Ozzie](https://github.com/jorgecoca/ozzie.flutter) <!--stargazers:jorgecoca/ozzie.flutter--> - Ozzie will take an screenshot during integration tests whenever you need by [Jorge Coca](https://github.com/jorgecoca)
 - [Flutter Gherkin](https://github.com/jonsamwell/flutter_gherkin) <!--stargazers:jonsamwell/flutter_gherkin--> - Fully featured Gherkin parser and UI automated test runner by [Jon Samwell](https://github.com/jonsamwell)
 
 ### Others
@@ -550,11 +551,9 @@ This section contains libraries that take an experimental or unorthodox approach
 - [Tetris](https://github.com/boyan01/flutter-tetris) <!--stargazers:boyan01/flutter-tetris--> - Tetris game by [YangBin](https://github.com/boyan01)
 - [Party Charades](https://github.com/vintage/party_flutter) <!--stargazers:vintage/party_flutter--> - Party charades by [Kamil Rykowski](https://github.com/vintage)
 
-#### Flame Engine
+#### Lists
 
 - [Awesome Flame](https://github.com/flame-engine/awesome-flame)<!--stargazers:flame-engine/awesome-flame--> - Curated list of the best Flame games, projects, libraries, tools, tutorials, articles and more by [Flame Engine](https://github.com/flame-engine) 
-- [Ghost Rigger](https://github.com/Float-like-a-dash-Sting-like-a-dart/GhostRigger) [5⭐] - Ghost Rigger is a cyberpunk inspired puzzle game by [Iain Smith](https://github.com/b099l3) and [Julio Ernesto Rodríguez Cabañas](https://https://github.com/ernestoyaquello).
-
 
 ## Open Source Apps
 
@@ -595,7 +594,6 @@ This section contains libraries that take an experimental or unorthodox approach
 - [Pokedex](https://github.com/scitbiz/flutter_pokedex) - Pokedex app with beautiful UI and smooth animation by [Hung Pham](https://github.com/scitbiz)
 - [Timy Messenger](https://github.com/janoodleFTW/timy-messenger) <!--stargazers:janoodleFTW/timy-messenger--> - Group messaging app with a focus on organizing events by [Miguel Beltran](https://github.com/miquelbeltran) and [Franz Heinfling](https://github.com/fheinfling)
 - [GitJournal](https://github.com/GitJournal/GitJournal) <!--stargazers:GitJournal/GitJournal--> - Journaling your data in a Git Repo by [Vishesh Handa](https://github.com/vHanda)
-- [AuthPass](https://github.com/authpass/authpass) <!--stargazers:authpass/authpass--> - Keepass compatible password manager for mobile and desktop by [hpoul](https://github.com/hpoul)
 
 ## Utilities
 
@@ -606,8 +604,6 @@ This section contains libraries that take an experimental or unorthodox approach
 - [FVM](https://github.com/leoafarias/fvm) <!--stargazers:leoafarias/fvm--> - Flutter Version Management: A simple cli to manage Flutter SDK versions.
 - [Environment Configuration](https://github.com/TatsuUkraine/dart_environment_config) <!--stargazers:TatsuUkraine/dart_environment_config--> - CLI tool to generate `.env` configurations for application environments by [TatsuUkraine](https://github.com/TatsuUkraine)
 - [Flutter Flavorizr](https://github.com/AngeloAvv/flutter_flavorizr) <!--stargazers:AngeloAvv/flutter_flavorizr--> - CLI utility to easily generate flavors for Android and iOS in less than 3 minutes by [Angelo Cassano](https://github.com/AngeloAvv)
-- [Fontify](https://github.com/westracer/fontify) <!--stargazers:westracer/fontify--> - CLI tool to convert SVG icons to OTF font and generate Flutter-compatible class by [Igor Kharakhordin](https://github.com/westracer)
-- [FlutterGen](https://github.com/FlutterGen/flutter_gen) <!--stargazers:FlutterGen/flutter_gen--> - Assets code generator for your images, fonts, colors, etc — Get rid of String-based APIs.
 
 ### VSCode
 
@@ -651,7 +647,7 @@ This section contains libraries that take an experimental or unorthodox approach
 
 - [Matrix2](https://github.com/bus710/matrix2) - Sense Hat's LED matrix control game by [bus710](https://github.com/bus710)
 
-## Jobs/Interview Questions
+### Interview questions
 
 - [Interview Questions](https://github.com/whatsupcoders/Flutter-Interview-Questions) - List of helpful questions you can use to interview potential candidates by [Whatsupcoders](https://github.com/whatsupcoders/Whatsupcoders-flutter)
 
@@ -728,9 +724,6 @@ This section contains libraries that take an experimental or unorthodox approach
 
 - Meetup [Athens](https://www.meetup.com/Athens-Flutter-Group/)
 - Slack [Flutter GR](https://join.slack.com/t/fluttergr/shared_invite/enQtNzQwODM2NzIxOTg0LWFjNWYxYzkyMTdmYWQ4ZWYyMWI2YjcyOTI4YzAzYjY2Nzk3OWNkMTkwZGRjNjRiMGFlNzgyOGRhMmEyZTQ3MmM)
-
-### 🇮🇳 India
-- Telegram [Flutter India 🇮🇳](https://t.me/flutterindia)
 
 ### 🇮🇩 Indonesia
 - Telegram [Flutter Indonesia](https://t.me/flutter_id)
