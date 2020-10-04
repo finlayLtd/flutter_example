@@ -102,6 +102,12 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Build Flavor](https://medium.com/@salvatoregiordanoo/flavoring-flutter-392aaa875f36) <!--claps:@salvatoregiordanoo/flavoring-flutter-392aaa875f36--> - Define build configurations and switch them by [Salvatore Giordano](https://medium.com/@salvatoregiordanoo)
 - [Build Flavor](https://medium.com/@angeloavv/easily-build-flavors-in-flutter-android-and-ios-with-flutter-flavorizr-d48cbf956e4) - Easily build flavors in Flutter (Android and iOS) with flutter_flavorizr by [Angelo Cassano](https://medium.com/@angeloavv)
 
+### Interviews
+
+- [The International Flutter Starter Kit (Part 1/4)](https://medium.com/flutter-community/intl-flutter-starter-kit-18415e739fb6) - Flutter guide by the experts by [Beyza Sunay Guler](https://twitter.com/BeyzaSunayGler1) & [Nawal Alhamwi](https://twitter.com/__nawalhmw)
+- [The International Flutter Starter Kit (Part 2/4)](https://medium.com/flutter-community/intl-flutter-starter-kit-2-fb12df5839cf) - Flutter guide by the experts by [Beyza Sunay Guler](https://twitter.com/BeyzaSunayGler1) & [Nawal Alhamwi](https://twitter.com/__nawalhmw)
+- [The International Flutter Starter Kit (Part 3/4)](https://medium.com/flutter-community/the-international-flutter-starter-kit-part-3-22f6f48a2673) - Flutter guide by the experts by [Beyza Sunay Guler](https://twitter.com/BeyzaSunayGler1) & [Nawal Alhamwi](https://twitter.com/__nawalhmw)
+
 ## Videos
 
 - [Boring Show](https://www.youtube.com/watch?v=CPmN4-i9zC8&list=PLOU2XLYxmsIK0r_D-zWcmJ1plIcDNnRkK) - Exploration with the Flutter Team.
@@ -632,7 +638,7 @@ This section contains libraries that take an experimental or unorthodox approach
 - [Beginning App Development](https://www.amazon.com/Beginning-App-Development-Flutter-Cross-Platform/dp/1484251806) - by [Rap Payne](https://github.com/rapPayne)
 - [Beginning Flutter](https://www.amazon.com/Beginning-Flutter-Hands-Guide-Development/dp/1119550823) - by [Marco Napoli](https://github.com/JediPixels)
 - [Flutter for Beginners](https://www.amazon.com/Flutter-Beginners-introductory-cross-platform-applications/dp/1788996089) - by [Alessandro Biessek](https://github.com/biessek)
-- [Flutter in Action](https://www.amazon.com/Flutter-Action-Eric-Windmill/dp/1617269147) - by [Eric Windmill](https://github.com/ericwindmill)
+- [Flutter in Action](https://www.amazon.com/Flutter-Action-Eric-Windmill/dp/1617296147) - by [Eric Windmill](https://github.com/ericwindmill)
 - [Learn Google Flutter Fast](https://www.amazon.com/Learn-Google-Flutter-Fast-Example/dp/1092297375) - by [Mark Clow](https://github.com/markclow)
 
 ### Cookbooks
