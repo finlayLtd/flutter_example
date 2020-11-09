@@ -497,6 +497,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 ### Data
 
+- [Ferry](https://github.com/gql-dart/ferry) <!--stargazers:gql-dart/ferry--> - Powerful & Extensible GraphQL Client by [Sat Mandir Khalsa](https://github.com/smkhalsa)
 - [Graphql](https://github.com/zino-app/graphql-flutter) <!--stargazers:zino-app/graphql-flutter--> - Implementation of the GraphQL spec by [Zino App B.V.](https://github.com/zino-app)
 - [GeoFlutterFire](https://github.com/DarshanGowda0/GeoFlutterFire) <!--stargazers:DarshanGowda0/GeoFlutterFire--> - Implementation of GeoFirestore for flutter by [Darshan Gowda](https://darshann.me/)
 
@@ -737,10 +738,9 @@ This section contains libraries that take an experimental or unorthodox approach
 
 ### 🇩🇪 Germany
 
-- Meetup [Berlin](https://www.meetup.com/flutter-berlin/) - [Düsseldorf](https://www.meetup.com/flutter-school/) - [Karlsruhe](https://www.meetup.com/Karlsruhe-Flutter-Meetup/) - [Hamburg](https://www.meetup.com/Flutter-Hamburg/) - [Stuttgart](https://www.meetup.com/Flutter-Stuttgart/) - [Munich](https://www.meetup.com/Flutter-Munich)
-- Twitter [Flutter Berlin](https://twitter.com/flutterBerlin) - [Düsseldorf](https://twitter.com/flutter_school) - [Munich](https://twitter.com/FlutterMunich)
+- Meetup [Berlin](https://www.meetup.com/flutter-berlin/) - [Düsseldorf](https://www.meetup.com/flutter-school/) - [Karlsruhe](https://www.meetup.com/Karlsruhe-Flutter-Meetup/) - [Hamburg](https://www.meetup.com/Flutter-Hamburg/) - [Stuttgart](https://www.meetup.com/Flutter-Stuttgart/)
+- Twitter [Flutter Berlin](https://twitter.com/flutterBerlin) - [Düsseldorf](https://twitter.com/flutter_school)
 - Slack [Flutter Berlin](https://flutterberlin.slack.com/join/shared_invite/enQtMzQ1NDI0NjU4Mjc5LWVjOTg0NmUxZmU4YzZjZjFkMWNjYWYyYTI5NjMyZWE5MDZjNDM0YzgyNWQyM2EzM2E0NDE4ZmQyMzQyMzRlNjI)
-- LinkedIn [Munich](https://www.linkedin.com/company/Flutter-Munich)
 
 ### 🇬🇷 Greece
 
