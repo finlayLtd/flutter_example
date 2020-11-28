@@ -630,6 +630,7 @@ This section contains libraries that take an experimental or unorthodox approach
 - [Desktop Embedding](https://github.com/google/flutter-desktop-embedding) <!--stargazers:google/flutter-desktop-embedding--> - Desktop implementations of the Flutter embedding API by Google
 - [Golang Desktop Embedder](https://github.com/go-flutter-desktop/go-flutter) <!--stargazers:go-flutter-desktop/go-flutter--> - Golang embedder for desktop by [Pierre Champion](https://github.com/pchampio)
 - [Rust Desktop Embedder](https://github.com/gliheng/flutter-rs) <!--stargazers:gliheng/flutter-rs--> - Rust embedder for desktop by [juju](https://github.com/gliheng).
+- [bitsdojo_window](https://github.com/bitsdojo/bitsdojo_window) - Owner-drawn chrome for your Flutter Windows apps (custom titlebar, minimize/maximize/close buttons). Easily work with windows (set size/minimum size/position/alignment on screen, show/hide/hide on startup, change title).
 
 ## Books
 
@@ -750,6 +751,10 @@ This section contains libraries that take an experimental or unorthodox approach
 
 - Meetup [Athens](https://www.meetup.com/Athens-Flutter-Group/)
 - Slack [Flutter GR](https://join.slack.com/t/fluttergr/shared_invite/enQtNzQwODM2NzIxOTg0LWFjNWYxYzkyMTdmYWQ4ZWYyMWI2YjcyOTI4YzAzYjY2Nzk3OWNkMTkwZGRjNjRiMGFlNzgyOGRhMmEyZTQ3MmM)
+
+### 🇮🇹 Italy
+ - Telegram [Flutter Italia Developers](https://t.me/flutteritdevs)
+ - Website [flutteritalia.dev](https://flutteritalia.dev)
 
 ### 🇮🇳 India
 - Telegram [Flutter India 🇮🇳](https://t.me/flutterindia)
