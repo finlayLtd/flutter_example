@@ -10,7 +10,6 @@ Submission description here
 
 - [ ] I read [How to contribute](https://github.com/Solido/awesome-flutter/blob/master/contributing.md)
 - [ ] I edited the SOURCE.md file only
-- [ ] Added a link to the repo in the PR
 
 ---
 
