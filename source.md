@@ -300,6 +300,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [GenLang](https://github.com/KingWu/gen_lang) <!--stargazers:KingWu/gen_lang--> - Code generator for Internationalization by [King Wu](https://github.com/KingWu)
 - [Flutter Translate](https://github.com/bratan/flutter_translate) <!--stargazers:bratan/flutter_translate--> - Internationalization (i18n) library by [Florin Bratan](http://bratan.me)
 - [attranslate](https://github.com/fkirc/attranslate) - Semi-automated translation of ARB or JSON files by [fkirc](https://github.com/fkirc)
+- [Fast i18n](https://github.com/Tienisto/flutter-fast-i18n) <!--stargazers:Tiensto/flutter-fast-i18n--> - Highly customizable i18n library taking advantage of code generation by [Tien Do Nam](https://github.com/Tienisto)
 
 
 ### Styling
@@ -760,6 +761,10 @@ This section contains libraries that take an experimental or unorthodox approach
 ### 🇯🇵 Japan
 
 - Meetup [Tokyo Flutter Developers](https://www.meetup.com/Tokyo-Flutter/)
+
+### 🇰🇪 Kenya
+- Meetup [Flutter Developers Kenya](https://www.meetup.com/KenyaFlutterDev/)
+- Twitter [Flutter Developers Kenya](https://twitter.com/KenyaFlutterDev/)
 
 ### 🇰🇷 Korea
 
