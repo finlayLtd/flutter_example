@@ -246,7 +246,6 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [GeoCoder](https://github.com/aloisdeniel/flutter_geocoder) <!--stargazers:aloisdeniel/flutter_geocoder--> - Forward and reverse geocoding by [Aloïs Deniel](https://aloisdeniel.github.com)
 - [Mapbox GL](https://github.com/mapbox/flutter-mapbox-gl) <!--stargazers:mapbox/flutter-mapbox-gl--> - Interactive, customizable vector maps by Mapbox
 - [AMap](https://github.com/fluttify-project/amap_map_fluttify) <!--stargazers:fluttify-project/amap_map_fluttify--> - Access to AMap services(高德地图) by [fluttify-project](https://github.com/fluttify-project)
-- [Map](https://github.com/xclud/flutter_map) <!--stargazers:xclud/flutter_map--> - Fully-fledged interactive Map widget for flutter written in pure Dart. Supports all platforms. by [Mahdi K. Fard](https://github.com/xclud/)
 
 ### Charts
 
@@ -382,7 +381,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 ### Machine Learning
 
 - [MLKit](https://github.com/azihsoyn/flutter_mlkit) <!--stargazers:azihsoyn/flutter_mlkit--> - Firebase Machine Learning Kit by [Naoya Yoshizawa](https://github.com/azihsoyn)
-- [m2gen](https://github.com/BayesWitnesses/m2cgen) <!--stargazers:BayesWitnesses/m2cgen--> - CLI tool to convert ML models into native Dart code by [BayesWitnesses](https://github.com/BayesWitnesses)
+- [m2cgen](https://github.com/BayesWitnesses/m2cgen) <!--stargazers:BayesWitnesses/m2cgen--> - CLI tool to convert ML models into native Dart code by [BayesWitnesses](https://github.com/BayesWitnesses)
 
 ### Vision
 
