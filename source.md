@@ -230,7 +230,6 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [SVG](https://github.com/dnfield/flutter_svg) <!--stargazers:dnfield/flutter_svg--> - SVG parsing, rendering, and widget library by [Dan Field](https://github.com/dnfield)
 - [Image Cropper](https://github.com/hnvn/flutter_image_cropper) <!--stargazers:hnvn/flutter_image_cropper--> - Crop your images support ratio, rotation, zoom by [HungHD](https://github.com/hnvn)
 - [Cached Network Image](https://github.com/renefloor/flutter_cached_network_image) <!--stargazers:renefloor/flutter_cached_network_image--> - Show images from the internet and keep them in the cache directory by
-- [Multi Image Picker](https://github.com/Sh1d0w/multi_image_picker) <!--stargazers:Sh1d0w/multi_image_picker--> - Display multi image picker by [Radoslav Vitanov](https://github.com/Sh1d0w)
 - [Lottie](https://github.com/CameronStuartSmith/flutter_lottie) <!--stargazers:CameronStuartSmith/flutter_lottie--> - Use airbnb's popular [After Effects Animation library](https://airbnb.design/lottie/) by [Cameron Smith](https://github.com/CameronStuartSmith)
 - [Bitmap](https://github.com/renancaraujo/bitmap) <!--stargazers:renancaraujo/bitmap--> - Perform Bitmap manipulations (such as contrast and exposure) with a help from the Dart FFI by [Renan C. Araújo](https://github.com/renancaraujo)
 - [Crop](https://github.com/xclud/flutter_crop) <!--stargazers:xclud/flutter_crop--> - Crop any widget/image in Android, iOS, Web and Desktop by [Mahdi K. Fard](https://github.com/xclud/)
@@ -381,7 +380,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 ### Machine Learning
 
 - [MLKit](https://github.com/azihsoyn/flutter_mlkit) <!--stargazers:azihsoyn/flutter_mlkit--> - Firebase Machine Learning Kit by [Naoya Yoshizawa](https://github.com/azihsoyn)
-- [m2gen](https://github.com/BayesWitnesses/m2cgen) <!--stargazers:BayesWitnesses/m2cgen--> - CLI tool to convert ML models into native Dart code by [BayesWitnesses](https://github.com/BayesWitnesses)
+- [m2cgen](https://github.com/BayesWitnesses/m2cgen) <!--stargazers:BayesWitnesses/m2cgen--> - CLI tool to convert ML models into native Dart code by [BayesWitnesses](https://github.com/BayesWitnesses)
 
 ### Vision
 
@@ -532,6 +531,7 @@ This section contains libraries that take an experimental or unorthodox approach
 - [Tetris](https://github.com/boyan01/flutter-tetris) <!--stargazers:boyan01/flutter-tetris--> - Tetris game by [YangBin](https://github.com/boyan01)
 - [Party Charades](https://github.com/vintage/party_flutter) <!--stargazers:vintage/party_flutter--> - Party charades by [Kamil Rykowski](https://github.com/vintage)
 - [Ghost Rigger](https://github.com/Float-like-a-dash-Sting-like-a-dart/GhostRigger) <!--stargazers:Float-like-a-dash-Sting-like-a-dart/GhostRigger--> - Ghost Rigger is a cyberpunk inspired puzzle game by [Iain Smith](https://github.com/b099l3) and [Julio Ernesto Rodríguez Cabañas](https://github.com/ernestoyaquello).
+- [Space Empires](https://github.com/satyamx64/space_empires) <!--stargazers:satyamx64/space_empires--> - A 4X Space themed strategy game by [Satyam Sharma](https://github.com/satyamx64)
 
 #### Game Engine resources
 
@@ -758,6 +758,10 @@ This section contains libraries that take an experimental or unorthodox approach
 ### 🇯🇵 Japan
 
 - Meetup [Tokyo Flutter Developers](https://www.meetup.com/Tokyo-Flutter/)
+
+### 🇰🇪 Kenya
+- Meetup [Flutter Developers Kenya](https://www.meetup.com/KenyaFlutterDev/)
+- Twitter [Flutter Developers Kenya](https://twitter.com/KenyaFlutterDev/)
 
 ### 🇰🇷 Korea
 
