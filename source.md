@@ -532,6 +532,7 @@ This section contains libraries that take an experimental or unorthodox approach
 - [Tetris](https://github.com/boyan01/flutter-tetris) <!--stargazers:boyan01/flutter-tetris--> - Tetris game by [YangBin](https://github.com/boyan01)
 - [Party Charades](https://github.com/vintage/party_flutter) <!--stargazers:vintage/party_flutter--> - Party charades by [Kamil Rykowski](https://github.com/vintage)
 - [Ghost Rigger](https://github.com/Float-like-a-dash-Sting-like-a-dart/GhostRigger) <!--stargazers:Float-like-a-dash-Sting-like-a-dart/GhostRigger--> - Ghost Rigger is a cyberpunk inspired puzzle game by [Iain Smith](https://github.com/b099l3) and [Julio Ernesto Rodríguez Cabañas](https://github.com/ernestoyaquello).
+- [Space Empires](https://github.com/satyamx64/space_empires) <!--stargazers:satyamx64/space_empires--> - A 4X Space themed strategy game by [Satyam Sharma](https://github.com/satyamx64)
 
 #### Game Engine resources
 
@@ -583,7 +584,6 @@ This section contains libraries that take an experimental or unorthodox approach
 
 ## Utilities
 
-- [Flutter Sidekick](https://github.com/leoafarias/sidekick) - A simple app to make Flutter development more delightful by [Leo Farias](https://github.com/leoafarias).
 - [Mutisya 2](https://flutterstudio.app/) - Online Flutter Studio by [Paul Mutisya](https://medium.com/@pmutisya)
 - [Launcher Icons](https://github.com/franzsilva/flutter_launcher_icons) - Generate your launcher icons easily by [Mark O'Sullivan](https://github.com/MarkOSullivan94) and [Franz Silva](https://github.com/franzsilva)
 - [Redux Starter/Code Generator](https://github.com/hillelcoren/flutter-redux-starter) <!--stargazers:hillelcoren/flutter-redux-starter--> - Starter project and code generator with Redux support by [Hillel Coren](https://twitter.com/hillelcoren)
