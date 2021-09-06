@@ -154,6 +154,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Card Settings](https://github.com/codegrue/card_settings) <!--stargazers:codegrue/card_settings--> - package for building settings forms by [codegrue](https://github.com/codegrue).
 - [Timelines](https://github.com/chulwoo-park/timelines) <!--stargazers:chulwoo-park/timelines--> - Powerful & Easy to use timeline package by [Chulwoo Park](https://github.com/chulwoo-park).
 - [Timeline Tile](https://github.com/JHBitencourt/timeline_tile) <!--stargazers:JHBitencourt/timeline_tile--> - A tile to help build beautiful and customisable timelines by [Julio Bitencourt](https://github.com/JHBitencourt).
+- [Rounded Loading Button](https://github.com/chrisedg87/flutter_rounded_loading_button) <!--stargazers:chrisedg87/flutter_rounded_loading_button--> - Button with a loading indicator, complete with success and error animations.
 
 #### Sticky Headers
 
@@ -488,7 +489,6 @@ Simon Binder](https://github.com/simolus3)
 - [Graphql](https://github.com/zino-app/graphql-flutter) <!--stargazers:zino-app/graphql-flutter--> - Implementation of the GraphQL spec by [Zino App B.V.](https://github.com/zino-app)
 - [GeoFlutterFire](https://github.com/DarshanGowda0/GeoFlutterFire) <!--stargazers:DarshanGowda0/GeoFlutterFire--> - Implementation of GeoFirestore for flutter by [Darshan Gowda](https://darshann.me/)
 - [Ferry](https://github.com/gql-dart/ferry) <!--stargazers:gql-dart/ferry--> - Powerful & Extensible GraphQL Client by [Sat Mandir Khalsa](https://github.com/smkhalsa)
-- [NETCoreSync](https://github.com/aldycool/NETCoreSync) - Centralized database synchronization framework for multiple clients, built on top of [Moor](https://github.com/simolus3/moor) library by [Aldy J](https://github.com/aldycool)
 
 ### Animation
 
