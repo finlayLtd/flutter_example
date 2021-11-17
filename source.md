@@ -161,6 +161,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Timelines](https://github.com/chulwoo-park/timelines) <!--stargazers:chulwoo-park/timelines--> - Powerful & Easy to use timeline package by [Chulwoo Park](https://github.com/chulwoo-park).
 - [Timeline Tile](https://github.com/JHBitencourt/timeline_tile) <!--stargazers:JHBitencourt/timeline_tile--> - A tile to help build beautiful and customisable timelines by [Julio Bitencourt](https://github.com/JHBitencourt).
 - [Rounded Loading Button](https://github.com/chrisedg87/flutter_rounded_loading_button) <!--stargazers:chrisedg87/flutter_rounded_loading_button--> - Button with a loading indicator, complete with success and error animations by [Chris Edgington](https://twitter.com/ChrisTheEdg)
+- [PlutoGrid](https://github.com/bosskmk/pluto_grid) <!--stargazers:bosskmk/pluto_grid--> - Web and desktop datagrid that can be controlled by the keyboard by [bosskmk](https://github.com/bosskmk).
 
 #### Sticky Headers
 
@@ -758,10 +759,9 @@ This section contains libraries that take an experimental or unorthodox approach
 
 ### 🇫🇷 France
 
-- Meetup [Bordeaux](https://www.meetup.com/fr-FR/Flutter-Bordeaux) - [Lille](https://www.meetup.com/fr-FR/Flutter-Lille) - [Paris](https://www.meetup.com/fr-FR/Flutter-Paris) - [Rennes](https://www.meetup.com/fr-FR/Flutter-Rennes)
-- [Twitter](https://twitter.com/FlutterFrance)
-- [Slack](https://linktr.ee/flutter_france)
-- [Newsletter Flutter Digest](https://www.flutter-digest.com/)
+- Meetup [Bordeaux](https://www.meetup.com/fr-FR/Flutter-Bordeaux) - [Paris](https://www.meetup.com/fr-FR/Flutter-Paris) - [Rennes](https://www.meetup.com/fr-FR/Flutter-Rennes)
+- [Twitter](https://twitter.com/FlutterDev)
+- [Slack](https://slack.flutter-france.fr)
 
 ### 🇩🇪 Germany
 
