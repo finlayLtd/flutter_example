@@ -42,6 +42,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Videos](#videos)
 - [Components](#components)
 - [Navigation](#navigation)
+- [Forms](#forms)
 - [Template](#templates)
 - [Plugins](#plugins)
 - [Frameworks](#frameworks)
@@ -282,6 +283,9 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Deep Link Navigation](https://github.com/Dennis-Krasnov/Flutter-Deep-Link-Navigation) <!--stargazers:Dennis-Krasnov/Flutter-Deep-Link-Navigation--> - Elegant abstraction for complete deep linking navigation in Flutter by [Dennis Krasnov](https://denniskrasnov.com)
 - [Get](https://github.com/jonataslaw/get) <!--stargazers:jonataslaw/get--> - Navigate between screens & display snackbars/dialogs/bottomSheets without context by [Jonny Borges](https://github.com/jonataslaw)
 - [Beamer](https://github.com/slovnicki/beamer) <!--stargazers:slovnicki/beamer--> - Route through guarded page stacks and URLs using the Navigator 2.0 API effortlessly by [Sandro Lovnički](https://github.com/slovnicki)
+
+### Forms
+- [Reactive Forms](https://github.com/joanpablo/reactive_forms) - model-driven approach to handling Forms inputs and validations, heavily inspired in Angular's Reactive Forms.
 
 ### Auth
 
@@ -759,9 +763,10 @@ This section contains libraries that take an experimental or unorthodox approach
 
 ### 🇫🇷 France
 
-- Meetup [Bordeaux](https://www.meetup.com/fr-FR/Flutter-Bordeaux) - [Paris](https://www.meetup.com/fr-FR/Flutter-Paris) - [Rennes](https://www.meetup.com/fr-FR/Flutter-Rennes)
-- [Twitter](https://twitter.com/FlutterDev)
-- [Slack](https://slack.flutter-france.fr)
+- Meetup [Bordeaux](https://www.meetup.com/fr-FR/Flutter-Bordeaux) - [Lille](https://www.meetup.com/fr-FR/Flutter-Lille) - [Paris](https://www.meetup.com/fr-FR/Flutter-Paris) - [Rennes](https://www.meetup.com/fr-FR/Flutter-Rennes)
+- [Twitter](https://twitter.com/FlutterFrance)
+- [Slack](https://linktr.ee/flutter_france)
+- [Newsletter Flutter Digest](https://www.flutter-digest.com/)
 
 ### 🇩🇪 Germany
 
